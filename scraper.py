@@ -5,7 +5,7 @@ import json
 # Site Bilgileri
 BASE_SITE = "https://bosssports276.com"
 # Bot olarak algılanmamak için standart bir tarayıcı User-Agent'ı
-USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
 
 def get_matches():
     headers = {
