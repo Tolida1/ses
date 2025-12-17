@@ -1,16 +1,19 @@
-name: Update M3U8 Links
+name: Update BossSports Streams
+
+permissions:
+  contents: write
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"   # 5 dakikada 1
   workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"   # 10 dakikada bir
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -18,23 +21,20 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install deps
+      - name: Install dependencies
         run: |
-          pip install requests
+          pip install --upgrade pip
+          pip install requests beautifulsoup4
 
       - name: Run script
-        env:
-          SRC_1: bo.xxx.workers.dev
-          SRC_2: f6e33e69e0fdec0a7780e174f3c8b2c2
-          VIDEO_ID: "777"
-          BASE_URL: https://site.com
         run: |
           python links.py
 
-      - name: Commit & Push
+      - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add links.txt
-          git commit -m "update m3u8 links" || echo "no changes"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add .
+          git commit -m "auto update streams" || echo "no changes to commit"
           git push
