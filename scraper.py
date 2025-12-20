@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-BASE_SITE = "https://bosssports276.com"
+BASE_SITE = "https://bosssports284.com"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 def get_real_hd_link(master_url):
