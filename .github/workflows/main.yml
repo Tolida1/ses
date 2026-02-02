@@ -1,9 +1,5 @@
 name: Boss Sports Scraper
 
-on:
-  schedule:
-    - cron: '0 * * * *' # Her saat başında otomatik çalışır
-  workflow_dispatch: # Manuel çalıştırma butonu ekler
 
 jobs:
   build:
