@@ -1,94 +1,173 @@
 import requests
-import sys
+import re
 
 # --- Ayarlar ---
-API_URL = "https://bosssports1019.com/api/channels"
+CHANNELS_API = "https://bosssports1019.com/api/channels"
+MATCHES_API = "https://bosssports1019.com/api/matches"
 BASE_SITE = "https://bosssports1019.com/"
 USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
-
-# M3U içine yazılacak referer (Boss Sports)
 REFERER = "https://bosssports1019.com/"
 
-# Çıktı dosyası
-OUTPUT_FILE = "boss.m3u"
+CHANNELS_FILE = "boss.m3u"
+MATCHES_FILE = "boss2.m3u"
 
 
-def write_m3u(entries):
-    """entries: (group_title, title, stream_url) tuple listesi"""
+def fetch_json(url):
+    """URL'den JSON çeker, hata olursa None döner."""
+    headers = {
+        "User-Agent": USER_AGENT,
+        "referer": BASE_SITE,
+        "accept": "application/json",
+    }
+    try:
+        r = requests.get(url, headers=headers, timeout=20)
+    except Exception as e:
+        print(f"❌ İstek hatası ({url}): {e}")
+        return None
+
+    print(f"[{url}] Status: {r.status_code}, Uzunluk: {len(r.text)}")
+    if r.status_code != 200:
+        print(f"   Yanıtın başı: {r.text[:300]}")
+        return None
+    try:
+        return r.json()
+    except Exception as e:
+        print(f"❌ JSON parse hatası ({url}): {e}")
+        print(f"   Yanıtın başı: {r.text[:300]}")
+        return None
+
+
+def get_stream_url(item):
+    """Bir kayıttan yayın linkini çıkarır: streams[].url (isPlayed öncelikli) -> videoid."""
+    streams = item.get("streams", [])
+    if streams:
+        played = next((s for s in streams if s.get("isPlayed")), None)
+        chosen = played or streams[0]
+        url = chosen.get("url", "")
+        if url:
+            return url
+    return item.get("videoid", "")
+
+
+def clean_league(league):
+    """'21:00 | | UEFA Şampiyonlar Ligi' -> 'UEFA Şampiyonlar Ligi' + saat."""
+    if not league:
+        return "", ""
+    # Fazla boşlukları/pipe'ları temizle
+    parts = [p.strip() for p in league.split("|") if p.strip()]
+    if not parts:
+        return "", league.strip()
+
+    # İlk parça saat gibi mi? (örn. 21:00)
+    time_val = ""
+    if re.match(r"^\d{1,2}:\d{2}$", parts[0]):
+        time_val = parts[0]
+        league_name = " ".join(parts[1:]) if len(parts) > 1 else ""
+    else:
+        league_name = " ".join(parts)
+    return time_val, league_name
+
+
+def write_m3u(entries, filename):
+    """entries: (group_title, title, stream_url) listesi"""
     lines = ["#EXTM3U"]
     for group_title, title, url in entries:
         lines.append(f'#EXTINF:-1 group-title="{group_title}",{title}')
         lines.append(f"#EXTVLCOPT:http-user-agent={USER_AGENT}")
         lines.append(f"#EXTVLCOPT:http-referrer={REFERER}")
         lines.append(url)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open(filename, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
 
 
-def main():
-    headers = {
-        "User-Agent": USER_AGENT,
-        "referer": BASE_SITE,
-        "accept": "application/json",
-    }
-
-    try:
-        r = requests.get(API_URL, headers=headers, timeout=20)
-    except Exception as e:
-        print(f"❌ İstek hatası: {e}")
-        write_m3u([])
+def build_channels():
+    """boss.m3u -> 7/24 kanallar"""
+    payload = fetch_json(CHANNELS_API)
+    if not payload:
+        write_m3u([], CHANNELS_FILE)
+        print("⚠️  Kanallar çekilemedi, boş boss.m3u yazıldı.")
         return
-
-    # --- DEBUG ---
-    print("=" * 50)
-    print(f"Status Code     : {r.status_code}")
-    print(f"İçerik uzunluğu : {len(r.text)}")
-    print("=" * 50)
-
-    if r.status_code != 200:
-        print(f"❌ API 200 dönmedi (status={r.status_code}). Yanıtın başı:")
-        print(r.text[:500])
-        write_m3u([])
-        return
-
-    try:
-        payload = r.json()
-    except Exception as e:
-        print(f"❌ JSON parse hatası: {e}")
-        print("Yanıtın başı:", r.text[:500])
-        write_m3u([])
-        return
-
-    if not payload.get("success"):
-        print(f"⚠️  API success=false döndü. Payload: {str(payload)[:300]}")
 
     channels = payload.get("data", [])
-    print(f"API'den gelen kanal sayısı: {len(channels)}")
+    print(f"Kanal sayısı: {len(channels)}")
 
     entries = []
     for ch in channels:
         title = (ch.get("home") or "").strip()
+        url = get_stream_url(ch)
+        if not title or not url:
+            continue
+        group = ch.get("league") or ch.get("category") or "7/24 Kanallar"
+        entries.append((group, title, url))
 
-        # Yayın linkini bul: önce streams[].url (isPlayed öncelikli), olmazsa videoid
-        stream_url = ""
-        streams = ch.get("streams", [])
-        if streams:
-            played = next((s for s in streams if s.get("isPlayed")), None)
-            chosen = played or streams[0]
-            stream_url = chosen.get("url", "")
-        if not stream_url:
-            stream_url = ch.get("videoid", "")
+    write_m3u(entries, CHANNELS_FILE)
+    print(f"✅ {len(entries)} kanal -> {CHANNELS_FILE}")
 
-        if not title or not stream_url:
-            print(f"   ⚠️  Atlandı (title='{title}', url boş mu={not stream_url})")
+
+def build_matches():
+    """boss2.m3u -> canlı maçlar (tekrarları temizleyerek)"""
+    payload = fetch_json(MATCHES_API)
+    if not payload:
+        write_m3u([], MATCHES_FILE)
+        print("⚠️  Maçlar çekilemedi, boş boss2.m3u yazıldı.")
+        return
+
+    matches = payload.get("data", [])
+    print(f"Ham maç kaydı sayısı: {len(matches)}")
+
+    entries = []
+    seen = set()  # aynı maçı iki kez eklememek için (id bazlı dedup)
+
+    for m in matches:
+        match_id = m.get("id") or m.get("public_id")
+        # Aynı maç id'si daha önce eklendiyse atla (rapsody/erosmac tekrarı)
+        if match_id and match_id in seen:
             continue
 
-        group = ch.get("league") or ch.get("category") or "7/24 Kanallar"
-        entries.append((group, title, stream_url))
+        home = (m.get("home") or "").strip()
+        away = (m.get("away") or "").strip()
+        url = get_stream_url(m)
 
-    write_m3u(entries)
-    print(f"✅ Başarılı: {len(entries)} kanal M3U'ya yazıldı -> {OUTPUT_FILE}")
+        if not home or not url:
+            continue
+
+        # Başlık: "Fenerbahçe - Gornik Zabrze" (away yoksa sadece home)
+        if away and away.lower() != "away":
+            title = f"{home} - {away}"
+        else:
+            title = home
+
+        # Lig ve saati ayıkla
+        time_val, league_name = clean_league(m.get("league", ""))
+        category = m.get("category", "").strip()
+
+        # Başlığa lig/saat bilgisi ekle
+        extra = " | ".join(x for x in [time_val, league_name] if x)
+        if extra:
+            title = f"{title} ({extra})"
+
+        # Grup: kategori (Football, Basketball...) -> yoksa "Canlı Maçlar"
+        group = category or "Canlı Maçlar"
+
+        if match_id:
+            seen.add(match_id)
+        entries.append((group, title, url))
+
+    write_m3u(entries, MATCHES_FILE)
+    print(f"✅ {len(entries)} maç (tekrarsız) -> {MATCHES_FILE}")
+
+
+def main():
+    print("=" * 50)
+    print("KANALLAR")
+    print("=" * 50)
+    build_channels()
+
+    print("=" * 50)
+    print("MAÇLAR")
+    print("=" * 50)
+    build_matches()
 
 
 if __name__ == "__main__":
