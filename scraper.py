@@ -10,7 +10,8 @@ USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 # M3U içine yazılacak referer (Boss Sports)
 REFERER = "https://bosssports1019.com/"
 
-OUTPUT_FILE = "boos.m3u"
+# Çıktı dosyası
+OUTPUT_FILE = "boss.m3u"
 
 
 def write_m3u(entries):
