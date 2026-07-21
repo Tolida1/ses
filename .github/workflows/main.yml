@@ -6,13 +6,12 @@ on:
   schedule:
     # Her 30 dakikada bir otomatik çalışır
     - cron: '*/30 * * * *'
-  workflow_dispatch: # Manuel tetikleme desteği
+  workflow_dispatch: # Manuel tetikleme
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    # Git push işlemi için yazma izni
     permissions:
       contents: write
 
@@ -26,19 +25,10 @@ jobs:
           python-version: '3.10'
 
       - name: Install Dependencies
-        run: |
-          pip install requests beautifulsoup4
+        run: pip install requests
 
       - name: Run Scraper
         run: python scraper.py
-
-      - name: Upload debug HTML (varsa)
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: debug-html
-          path: debug.html
-          if-no-files-found: ignore
 
       - name: Commit and Push Changes
         run: |
@@ -47,5 +37,5 @@ jobs:
           git fetch origin main
           git pull origin main --rebase
           git add matches.json
-          git commit -m "Auto-update matches: $(date)" || exit 0
+          git commit -m "Auto-update channels: $(date)" || exit 0
           git push origin main
