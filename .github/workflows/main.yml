@@ -4,15 +4,15 @@ on:
   push:
     branches: [ "main" ]
   schedule:
-    # Her 30 dakikada bir otomatik çalışır (Maç saatlerini kaçırmamak için idealdir)
+    # Her 30 dakikada bir otomatik çalışır
     - cron: '*/30 * * * *'
-  workflow_dispatch: # Manuel olarak da tetiklenebilir
+  workflow_dispatch: # Manuel tetikleme desteği
 
 jobs:
   build:
     runs-on: ubuntu-latest
     
-    # Git push işlemi için yazma izni tanımlıyoruz
+    # Git push işlemi için yazma izni
     permissions:
       contents: write
 
@@ -36,7 +36,8 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
+          git fetch origin main
+          git pull origin main --rebase
           git add matches.json
-          # Eğer dosyada değişiklik yoksa hata verip durmasın diye || exit 0 ekledik
           git commit -m "Auto-update matches: $(date)" || exit 0
-          git push
+          git push origin main
