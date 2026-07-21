@@ -2,15 +2,215 @@
 #EXTINF:-1 group-title="Football",Fenerbahçe - Gornik Zabrze (21:00 | UEFA Şampiyonlar Ligi)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://bbdbe444288550204c968fe7002a97a9.biz/tv100/mono.m3u8?sign=3b993fd15cd5e723e0f771b2f42916bfad275015b255633b30a3bd40dbc46fad&ip=2a06:98c0:3600::103&expires=1784666138
-#EXTINF:-1 group-title="Cricket",Dexterous - Triumphants (21:30 | India. Indoor Series)
+https://bbdbe444288550204c968fe7002a97a9.biz/tv100/mono.m3u8?sign=f3cfa92b3b5383734e6034f266a37a1fbc18a56aeab6d719a53d78c7e83491ff&ip=2a06:98c0:3600::103&expires=1784669510
+#EXTINF:-1 group-title="Ice Hockey",First Flyers - Coyotes (22:30 | 3HL League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750429.m3u8
-#EXTINF:-1 group-title="Ice Hockey",Energiya Yekaterinburg - Dynamo Omsk (21:30 | RHL)
+https://sw1.eroscloud.sbs/stream/19750970.m3u8
+#EXTINF:-1 group-title="Ice Hockey",Heavy Hammers - Skyhawks (22:30 | Rusya. MNHL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750510.m3u8
+https://sw1.eroscloud.sbs/stream/19750974.m3u8
+#EXTINF:-1 group-title="Cricket",Nitros - Renegades Chennai (22:30 | Chennai daily cricket)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750906.m3u8
+#EXTINF:-1 group-title="Volleyball",Letonya - Ukrayna (19:30 | CBV 23. Duo Masters)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750948.m3u8
+#EXTINF:-1 group-title="Imagic",Roulette (22:30 | Roulette)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750994.m3u8
+#EXTINF:-1 group-title="Basketball",Vozdovac 3x3 - Wwin 3x3 (22:15 | Bosna- Hersek. 3x3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750941.m3u8
+#EXTINF:-1 group-title="Imagic",777 (22:30 | 777)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750992.m3u8
+#EXTINF:-1 group-title="Volleyball",İtalya (Bayanlar) - Türkiye (Bayanlar) (22:25 | VCA. Master Volleyball League. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750924.m3u8
+#EXTINF:-1 group-title="Imagic",Roulette (22:28 | Roulette)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750977.m3u8
+#EXTINF:-1 group-title="Imagic",777 (22:28 | 777)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750975.m3u8
+#EXTINF:-1 group-title="eSpor Voleybol",Küba - ABD (22:30 | FIVB Uluslar Ligi. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750910.m3u8
+#EXTINF:-1 group-title="Volleyball",İspanya - Arjantin (19:20 | CBV 23. Duo Masters)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750904.m3u8
+#EXTINF:-1 group-title="Badminton",Kodai Naraoka (JPN) - Tien Chen Chou (TPE) (22:20 | CB 26. Champions League)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750865.m3u8
+#EXTINF:-1 group-title="Football",Fimleikafelag Hafnarfjarðar (Bayanlar) - Stjarnan (Bayanlar) (22:15 | İzlanda Şampiyonası. Urvalsdeild. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750897.m3u8
+#EXTINF:-1 group-title="Football",Valur FutbolClub (Bayanlar) - Breidablik UBK (Bayanlar) (22:15 | İzlanda Şampiyonası. Urvalsdeild. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750896.m3u8
+#EXTINF:-1 group-title="Beach Volleyball",Daria Romaniuk (UKR)/Yeva Serdiuk - Sarah Pavan (CAN)/Melissa Humana-Paredes (CAN) (19:20 | CBV 23. International Cup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750859.m3u8
+#EXTINF:-1 group-title="Beach Volleyball",Liliana Fernández (ESP)/Elsa Baquerizo (ESP) - Ana Gallay (ARG)/Fernanda Pereyra (ARG) (19:10 | CBV 23. International Cup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750857.m3u8
+#EXTINF:-1 group-title="Ice Hockey",Reactor Khabarovsk - Tigry Tyumen (22:10 | RHL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750837.m3u8
+#EXTINF:-1 group-title="Badminton",Zii Jia Lee (MAS) - Kean Yew Loh (SIN) (22:10 | CB 26. Champions League)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750845.m3u8
+#EXTINF:-1 group-title="Ice Hockey",Zvezda Samara - Neftyanik Veliky Novgorod (22:15 | RHL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750747.m3u8
+#EXTINF:-1 group-title="Basketball",Nizhnekamsk (Bayanlar) - Armavir (Bayanlar) (22:10 | IPBL. Pro Division. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750811.m3u8
+#EXTINF:-1 group-title="Ice Hockey",San Jose Sharks (slame) - Buffalo Sabres (soks) (21:58 | NHL 26. Blast hockey league)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750806.m3u8
+#EXTINF:-1 group-title="Ice Hockey",Blood Jokers - Galaxy Warriors (22:10 | 3HL League)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750800.m3u8
+#EXTINF:-1 group-title="Basketball",Ulan-Ude - Khabarovsk (22:05 | IPBL. Pro Division)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750771.m3u8
+#EXTINF:-1 group-title="Tennis",Lexie Weir - Brahmbhatt Amara (22:15 | UTR Women Tallahassee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30937021241734348813/index.css
+#EXTINF:-1 group-title="Tennis",Carter Craig - Zavier Augustin (21:10 | UTR Men Tallahassee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30942129818966835213/index.css
+#EXTINF:-1 group-title="Tennis",Elliot Wasserman - Ritesh Patil (22:05 | UTR Men Waco)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30942511753547366413/index.css
+#EXTINF:-1 group-title="Tennis",Zimora McKnight - Zuzanna Kubacha (22:00 | UTR Women Waco)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30936291648949862413/index.css
+#EXTINF:-1 group-title="Basketball",IPBL Bulls - IPBL Boars (22:15 | IPBL. Prime Division)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750758.m3u8
+#EXTINF:-1 group-title="Cricket",Fortner Boys - Wizards Indoor (22:00 | India. Indoor Series)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750668.m3u8
+#EXTINF:-1 group-title="Cricket",Fast Runners - Military (22:00 | Chennai daily cricket)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750642.m3u8
+#EXTINF:-1 group-title="Volleyball",İtalya - Slovenya (22:00 | VCA. Master Volleyball League)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750745.m3u8
+#EXTINF:-1 group-title="Badminton",Akane Yamaguchi (JPN) - Ratchanok Intanon (22:00 | CB 26. Champions League. Women)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750720.m3u8
+#EXTINF:-1 group-title="Tennis",Denis Klyuchnikov - Ilyas Syunyaev (21:50 | ATT. Saransk)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750685.m3u8
+#EXTINF:-1 group-title="Basketball",Voronezh - Moscow (22:00 | IPBL. Pro Division)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750678.m3u8
+#EXTINF:-1 group-title="Volleyball",Arjantin - Rusya (22:00 | SpikeVolleyball. International Cup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750648.m3u8
+#EXTINF:-1 group-title="Basketball",Çin (TBL) - Kolombiya (TBL) (21:50 | Table Basketball League)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750675.m3u8
+#EXTINF:-1 group-title="Football",Stranraer - Edinburgh FC |1 (21:45 | İskoçya Ligler Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750670.m3u8
+#EXTINF:-1 group-title="Football",Stratford Town - Brackley Town |1 (21:45 | Kulüpler Arası Dostluk Maçları)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750692.m3u8
+#EXTINF:-1 group-title="Volleyball",Chile (Pro) - Bolivia (Pro) (21:40 | UPVL. Milletler Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750628.m3u8
+#EXTINF:-1 group-title="Basketball",New Zealand (TBL) - Bulgaristan (TBL) (21:50 | Table Basketball League)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750679.m3u8
+#EXTINF:-1 group-title="Badminton",Carolina Marin - Bing Jiao HE (CHN) (21:40 | CB 26. Champions League. Women)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750622.m3u8
+#EXTINF:-1 group-title="Tennis",Vasiliy Postnikov - Ruslan Petryaev (21:35 | ATT. Togliatti)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750532.m3u8
+#EXTINF:-1 group-title="Basketball",IPBL Lynx (Bayanlar) - IPBL Iguana (Bayanlar) (21:45 | IPBL. Prime Division. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750551.m3u8
+#EXTINF:-1 group-title="Basketball",IPBL Dogs - IPBL Wolves (21:45 | IPBL. Prime Division)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19750560.m3u8
+#EXTINF:-1 group-title="Tennis",Aryana Bartlett - Reese Frank (21:00 | UTR Women Tallahassee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30945331510411673613/index.css
+#EXTINF:-1 group-title="Tennis",Spencer Johnson - Coleman Wong (21:15 | ATP Challenger Bloomfield, Main Draw)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30923049299367936013/index.css
+#EXTINF:-1 group-title="Tennis",Roberto Carballes Baena - Marc-Andrea Huesler (21:10 | ATP Challenger Zug, Main Draw)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30919853866244096013/index.css
+#EXTINF:-1 group-title="Tennis",Tyler Zink - Zhizhen Zhang (21:05 | ATP Challenger Winnipeg, Main Draw)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30921737476056268813/index.css
+#EXTINF:-1 group-title="Tennis",Evan Zhu - Thanasi Kokkinakis (21:15 | ATP Challenger Bloomfield, Main Draw)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30940791761856512013/index.css
+#EXTINF:-1 group-title="Tennis",Alice Rame - Anastasia Tikhonova (21:30 | WTA 125K Palermo, Main Draw)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30918756551802470413/index.css
+#EXTINF:-1 group-title="Football",Gillingham - Millwall (21:00 | Kulüpler Hazırlık Maçları (Format Değişikliği Olabilir))
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30906220117304524813/index.css
 #EXTINF:-1 group-title="Volleyball",Rusya (Bayanlar) - Japonya (Bayanlar) (21:30 | VCA. Master Volleyball League. Bayanlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
@@ -19,134 +219,22 @@ https://sw1.eroscloud.sbs/stream/19750523.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
 https://sw1.eroscloud.sbs/stream/19750522.m3u8
-#EXTINF:-1 group-title="Basketball",Vozdovac 3x3 - Vlasenica 3x3 (21:15 | Bosna- Hersek. 3x3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750475.m3u8
-#EXTINF:-1 group-title="Imagic",Roulette (21:30 | Roulette)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750554.m3u8
-#EXTINF:-1 group-title="Imagic",777 (21:30 | 777)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750552.m3u8
-#EXTINF:-1 group-title="Badminton",Jonatan Christie (IDN) - Kunlavut Vitidsarn (THA) (21:30 | CB 26. Champions League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750468.m3u8
-#EXTINF:-1 group-title="Beach Volleyball",Tina Graudina (LVA)/Anastasija Samoilova - Xinxin Wang (CHN)/Xue Chen (CHN) (18:30 | CBV 23. International Cup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750467.m3u8
 #EXTINF:-1 group-title="eSpor Voleybol",Sırbistan - Kanada (21:25 | VCA 25. Nations League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
 https://sw1.eroscloud.sbs/stream/19750465.m3u8
-#EXTINF:-1 group-title="Ice Hockey",Icebreakers - Wizards (21:25 | 3HL League)
+#EXTINF:-1 group-title="Handball",Sporting Luanda (Bayanlar) - Primeiro de Agosto (Bayanlar) (20:30 | Angola Şampiyonası. Bayanlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750464.m3u8
-#EXTINF:-1 group-title="Imagic",Roulette (21:28 | Roulette)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750531.m3u8
-#EXTINF:-1 group-title="Imagic",777 (21:28 | 777)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750530.m3u8
-#EXTINF:-1 group-title="Ice Hockey",HC Meteor - HC Cementnik (21:18 | RHL)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750420.m3u8
-#EXTINF:-1 group-title="Bowling",Biggest - Pavlik (21:20 | Fast Bowling)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750486.m3u8
-#EXTINF:-1 group-title="Beach Volleyball",Sanne Keizer (NED)/Madelein Meppelink (NED) - Andrea Strbova (SVK)/Natalia Dubovcova (SVK) (18:20 | CBV 23. International Cup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750413.m3u8
-#EXTINF:-1 group-title="Ice Hockey",Wild Vikings - Gladiators (21:20 | Rusya. MNHL)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750424.m3u8
-#EXTINF:-1 group-title="Badminton",Viktor Axelsen (DEN) - Anthony Ginting (IDN) (21:10 | CB 26. Champions League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750397.m3u8
-#EXTINF:-1 group-title="Volleyball",Kanada - ABD (18:10 | CBV 23. Duo Masters)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750398.m3u8
-#EXTINF:-1 group-title="eSpor Voleybol",Puerto Riko - Dominik Cumhuriyeti (21:20 | FIVB Uluslar Ligi. Bayanlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750387.m3u8
-#EXTINF:-1 group-title="Basketball",Chita - Khabarovsk (21:05 | IPBL. Pro Division)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750314.m3u8
-#EXTINF:-1 group-title="Ice Hockey",Buffalo Sabres (soks) - San Jose Sharks (slame) (21:07 | NHL 26. Blast hockey league)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750383.m3u8
-#EXTINF:-1 group-title="Ice Hockey",Golden Knights - First Flyers (21:10 | 3HL League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750370.m3u8
-#EXTINF:-1 group-title="Cricket",Nitros - Hawks Chennai (21:05 | Chennai daily cricket)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750233.m3u8
-#EXTINF:-1 group-title="Cricket",Multan Tigers Gujrat - Khanewal Kings (21:05 | Gujrat District Cup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750301.m3u8
-#EXTINF:-1 group-title="Badminton",Zhi Yi Wang (CHN) - Tai Tzu Ying (TPE) (21:10 | CB 26. Champions League. Women)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750334.m3u8
-#EXTINF:-1 group-title="Badminton",Zhi Yi Wang (CHN) - Tai Tzu Ying (TPE) (21:10 | CB 26. Champions League. Women)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750334.m3u8
+https://sw1.eroscloud.sbs/stream/19750437.m3u8
 #EXTINF:-1 group-title="Volleyball",Brezilya - Slovenya (21:05 | VCA. Master Volleyball League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
 https://sw1.eroscloud.sbs/stream/19750333.m3u8
-#EXTINF:-1 group-title="Basketball",Brazil 3x3 U23 - Paraguay 3x3 U23 (21:15 | FIBA 3x3 U23 Nations League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30945648019197542413/index.css
-#EXTINF:-1 group-title="Tennis",Noemi Basiletti - Raluca Georgiana Serban (20:00 | WTA 125K Palermo, Main Draw)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30945399476801126413/index.css
-#EXTINF:-1 group-title="Tennis",Igor Ribeiro Marcondes - Linus Lagerbohm (20:00 | ATP Challenger Tampere, Main Draw)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30935377214760960013/index.css
-#EXTINF:-1 group-title="Tennis",Caroline Werner - Mina Hodzic (19:55 | WTA 125K Palermo, Main Draw)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30928650583588454413/index.css
 #EXTINF:-1 group-title="Volleyball",Grajau TC U19 (W) - Clube Funcionarios Csn U19 (W) (21:00 | U19 Campeonato Carioca Women)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/30938417045392998413/index.css
-#EXTINF:-1 group-title="Basketball",Cr Vasco Da Gama RJ LDB U22 - Flamengo LDB U22 (20:30 | LDB U22)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30937775441976115213/index.css
-#EXTINF:-1 group-title="Cricket",MI London - Sunrisers Leeds (20:30 | The Hundred)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30770302788327424013/index.css
-#EXTINF:-1 group-title="Basketball",Krasnogorsk (Bayanlar) - Armavir (Bayanlar) (21:10 | IPBL. Pro Division. Bayanlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750284.m3u8
 #EXTINF:-1 group-title="Football",Albacete Balompié - Al Kholood (21:00 | Kulüpler Arası Dostluk Maçları)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
@@ -159,103 +247,27 @@ https://sw1.eroscloud.sbs/stream/19750313.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
 https://sw1.eroscloud.sbs/stream/19750305.m3u8
-#EXTINF:-1 group-title="Basketball",Vladivostok (Bayanlar) - Norilsk (Bayanlar) (20:55 | IPBL. Pro Division. Bayanlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750271.m3u8
-#EXTINF:-1 group-title="Basketball",IPBL Elephants - IPBL Gorillas (21:00 | IPBL. Prime Division)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750269.m3u8
-#EXTINF:-1 group-title="Basketball",Kaliningrad - Voronezh (21:00 | IPBL. Pro Division)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750232.m3u8
-#EXTINF:-1 group-title="Cricket",Wizards Indoor - Fortner Boys (21:00 | India. Indoor Series)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750223.m3u8
 #EXTINF:-1 group-title="Volleyball",Sokol (4x4) - Astoria (4x4) (21:00 | Orange Cup)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
 https://sw1.eroscloud.sbs/stream/19750152.m3u8
-#EXTINF:-1 group-title="Volleyball",Bolivia (Pro) - Peru (Pro) (20:40 | UPVL. Milletler Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750213.m3u8
-#EXTINF:-1 group-title="Basketball",Kolombiya (TBL) - Çin (TBL) (20:50 | Table Basketball League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750214.m3u8
-#EXTINF:-1 group-title="Volleyball",Brezilya - Slovakya (17:40 | CBV 23. Duo Masters)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750170.m3u8
 #EXTINF:-1 group-title="Cricket",CTS Suleman Stallions - TNN Titans (20:20 | Pakistan. Royal Memon League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
 https://sw1.eroscloud.sbs/stream/19750154.m3u8
-#EXTINF:-1 group-title="Basketball",Bulgaristan (TBL) - New Zealand (TBL) (20:45 | Table Basketball League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750217.m3u8
-#EXTINF:-1 group-title="Badminton",Ratchanok Intanon - Chen Yu Fei (CHN) (20:40 | CB 26. Champions League. Women)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750123.m3u8
-#EXTINF:-1 group-title="Volleyball",İtalya (Bayanlar) - Çin (Bayanlar) (20:30 | VCA. Master Volleyball League. Bayanlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19750063.m3u8
-#EXTINF:-1 group-title="Cricket",Fast Runners - Millionaires (20:30 | Chennai daily cricket)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19749939.m3u8
 #EXTINF:-1 group-title="Cricket",Laurelvale 2nd XI - North Down 3rd XI (20:00 | Northern Ireland. NCU Junior League 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
 https://sw1.eroscloud.sbs/stream/19750044.m3u8
-#EXTINF:-1 group-title="Volleyball",ABD - Japonya (20:20 | VCA. Master Volleyball League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19749993.m3u8
-#EXTINF:-1 group-title="Basketball",Suzhou Cats - Shanghai Fives (20:20 | Çin. CDBL)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19749957.m3u8
 #EXTINF:-1 group-title="Cricket",Rewari Racers - Shani Shignapur Sports (20:15 | Chandigarh League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
 https://sw1.eroscloud.sbs/stream/19749912.m3u8
-#EXTINF:-1 group-title="Tennis",Sergey Penin - Viktor Mitin (20:05 | ATT. Moskova)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19749814.m3u8
-#EXTINF:-1 group-title="Football",Ittihad FC - Orlando Pirates (20:00 | Kulüpler Arası Dostluk Maçları)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19749894.m3u8
-#EXTINF:-1 group-title="Football",Falkenbergs FF - Helsingborgs IF (20:00 | İsveç Şampiyonası. Superettan)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19749955.m3u8
 #EXTINF:-1 group-title="Baseball",Chesapeake Baysox - Erie SeaWolves (19:05 | MiLB. AA. Doğu Ligi)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
 https://sw1.eroscloud.sbs/stream/19749758.m3u8
-#EXTINF:-1 group-title="Cricket",Star Eleven (Bayanlar) - Rani Laxmi Bai X1 (Bayanlar) (19:10 | Agra District Womens League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19749379.m3u8
-#EXTINF:-1 group-title="Cricket",Seattle Rengades (Youth) - Atlanta Force (Youth) (18:46 | USA. Atlanta Youth Premier League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19749398.m3u8
 #EXTINF:-1 group-title="Cricket",Chiltan Star - MS Stallions (18:58 | Pakistan. Balochistan Local Pride Gold Cup)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
 https://sw1.eroscloud.sbs/stream/19749375.m3u8
-#EXTINF:-1 group-title="Cricket",Jaipur Titans - The Caffeine Strikers (18:23 | India. TNT Monsoon Cup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19749109.m3u8
