@@ -12,6 +12,12 @@ REFERER = "https://bosssports1019.com/"
 CHANNELS_FILE = "boss.m3u"
 MATCHES_FILE = "boss2.m3u"
 
+# Sadece bu kategoriler alınacak (küçük harfle, kısmi eşleşme)
+ALLOWED_CATEGORIES = ["football", "volleyball", "basketball", "voleybol", "basketbol", "futbol"]
+
+# Maçlar için tek grup adı
+MATCH_GROUP = "Canlı Maçlar"
+
 
 def fetch_json(url):
     """URL'den JSON çeker, hata olursa None döner."""
@@ -51,15 +57,13 @@ def get_stream_url(item):
 
 
 def clean_league(league):
-    """'21:00 | | UEFA Şampiyonlar Ligi' -> 'UEFA Şampiyonlar Ligi' + saat."""
+    """'21:00 | | UEFA Şampiyonlar Ligi' -> ('21:00', 'UEFA Şampiyonlar Ligi')"""
     if not league:
         return "", ""
-    # Fazla boşlukları/pipe'ları temizle
     parts = [p.strip() for p in league.split("|") if p.strip()]
     if not parts:
         return "", league.strip()
 
-    # İlk parça saat gibi mi? (örn. 21:00)
     time_val = ""
     if re.match(r"^\d{1,2}:\d{2}$", parts[0]):
         time_val = parts[0]
@@ -67,6 +71,12 @@ def clean_league(league):
     else:
         league_name = " ".join(parts)
     return time_val, league_name
+
+
+def is_allowed_category(category):
+    """Kategori futbol/voleybol/basketbol mu?"""
+    cat = (category or "").lower()
+    return any(key in cat for key in ALLOWED_CATEGORIES)
 
 
 def write_m3u(entries, filename):
@@ -106,7 +116,7 @@ def build_channels():
 
 
 def build_matches():
-    """boss2.m3u -> canlı maçlar (tekrarları temizleyerek)"""
+    """boss2.m3u -> sadece futbol/voleybol/basketbol, tek grup, tekrarsız"""
     payload = fetch_json(MATCHES_API)
     if not payload:
         write_m3u([], MATCHES_FILE)
@@ -117,11 +127,18 @@ def build_matches():
     print(f"Ham maç kaydı sayısı: {len(matches)}")
 
     entries = []
-    seen = set()  # aynı maçı iki kez eklememek için (id bazlı dedup)
+    seen = set()
+    skipped_category = 0
 
     for m in matches:
+        category = (m.get("category") or "").strip()
+
+        # Kategori filtresi
+        if not is_allowed_category(category):
+            skipped_category += 1
+            continue
+
         match_id = m.get("id") or m.get("public_id")
-        # Aynı maç id'si daha önce eklendiyse atla (rapsody/erosmac tekrarı)
         if match_id and match_id in seen:
             continue
 
@@ -132,30 +149,23 @@ def build_matches():
         if not home or not url:
             continue
 
-        # Başlık: "Fenerbahçe - Gornik Zabrze" (away yoksa sadece home)
         if away and away.lower() != "away":
             title = f"{home} - {away}"
         else:
             title = home
 
-        # Lig ve saati ayıkla
         time_val, league_name = clean_league(m.get("league", ""))
-        category = m.get("category", "").strip()
-
-        # Başlığa lig/saat bilgisi ekle
         extra = " | ".join(x for x in [time_val, league_name] if x)
         if extra:
             title = f"{title} ({extra})"
 
-        # Grup: kategori (Football, Basketball...) -> yoksa "Canlı Maçlar"
-        group = category or "Canlı Maçlar"
-
         if match_id:
             seen.add(match_id)
-        entries.append((group, title, url))
+        entries.append((MATCH_GROUP, title, url))
 
+    print(f"Kategori dışı atlanan: {skipped_category}")
     write_m3u(entries, MATCHES_FILE)
-    print(f"✅ {len(entries)} maç (tekrarsız) -> {MATCHES_FILE}")
+    print(f"✅ {len(entries)} maç (futbol/voleybol/basketbol, tekrarsız) -> {MATCHES_FILE}")
 
 
 def main():
