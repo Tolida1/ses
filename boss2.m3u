@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Independiente Del Valle - Tecnico Universitario (00:30 | Ekvador Primera A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30829483518718361613/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",IPBL Raptors - IPBL Kangaroos (00:45 | IPBL. Prime Division)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19761955.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",ABD - Kanada (00:30 | VCA 25. Nations League)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19761961.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Küba - Dominik Cumhuriyeti (00:25 | FIVB Uluslar Ligi. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19761882.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Türkiye (Bayanlar) - ABD (Bayanlar) (00:15 | VCA. Master Volleyball League. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19761863.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Kolombiya (Pro) - Brezilya (Pro) (00:15 | UPVL. Milletler Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19761836.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",ABD - Letonya (21:10 | CBV 23. Duo Masters)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19761842.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",IPBL Scorpions - IPBL Huskies (00:15 | IPBL. Prime Division)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://sw1.eroscloud.sbs/stream/19761826.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Central Cordoba Reserves - Ca Platense Reserves (23:00 | Arjantin Reserve Lig)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1019.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30929066889651404813/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Club Sport Colombia - Guairena FC (00:00 | Copa Paraguay)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
@@ -43,30 +79,6 @@ https://sw1.eroscloud.sbs/stream/19761659.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
 https://sw1.eroscloud.sbs/stream/19761660.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Fransa - Hollandaa (23:40 | FIVB Uluslar Ligi. Bayanlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19761589.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Kolombiya (Pro) - Uruguay (Pro) (22:40 | UPVL. Milletler Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19761513.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",IPBL Squirrels - IPBL Gazelles (23:15 | IPBL. Prime Division)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19761483.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Real Tomayapo (W) - Real Santa Cruz Yacuiba (W) (22:30 | Campeonato Integracion Women)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30953698150429900813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Central Cordoba Reserves - Ca Platense Reserves (23:00 | Arjantin Reserve Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30929066889651404813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",IPBL Beavers - IPBL Barracudas (23:00 | IPBL. Prime Division)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19761310.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Brezilya (Bayanlar) - Japonya (Bayanlar) (22:50 | VCA. Master Volleyball League. Bayanlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
@@ -75,15 +87,3 @@ https://sw1.eroscloud.sbs/stream/19761282.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1019.com/
 https://sw1.eroscloud.sbs/stream/19761236.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Brezilya - Rusya (19:30 | CBV 23. Duo Masters)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19761123.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",ABD (Bayanlar) - İtalya (Bayanlar) (22:05 | VCA. Master Volleyball League. Bayanlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19760938.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Brezilya - Kore (22:00 | VCA 25. Nations League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1019.com/
-https://sw1.eroscloud.sbs/stream/19760887.m3u8
