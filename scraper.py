@@ -13,7 +13,7 @@ CHANNELS_FILE = "boss.m3u"
 MATCHES_FILE = "boss2.m3u"
 
 # Sadece bu kategoriler alınacak (küçük harfle, kısmi eşleşme)
-ALLOWED_CATEGORIES = ["football", "volleyball", "basketball", "voleybol", "basketbol", "futbol"]
+ALLOWED_CATEGORIES = ["football",  "futbol"]
 
 # Maçlar için tek grup adı
 MATCH_GROUP = "Canlı Maçlar"
