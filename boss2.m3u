@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Victory FC - Leader FC (06:30 | Regional League. A)
+#EXTINF:-1 group-title="Canlı Maçlar",Sochi (Gençler) - MFA Moscow (Gençler) (10:00 | Rusya Şampiyonası. Gençler Birinciliği. Division B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1020.com/
-https://sw1.eroscloud.sbs/stream/19774521.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",CS Herediano - Puntarenas FC (05:00 | Primera Division Apertura)
+https://sw1.eroscloud.sbs/stream/19775990.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Sporting do Imbondeiro - Welwitschia Mirabilis (10:00 | Angola. Liga Bantu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1020.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30960192009699737613/index.css
+https://sw1.eroscloud.sbs/stream/19775885.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Eagles FC - Olympic FC (09:00 | Regional League. A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1020.com/
+https://sw1.eroscloud.sbs/stream/19775584.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Thunderbirds FC - Legion FC (09:12 | Regional League. W)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1020.com/
+https://sw1.eroscloud.sbs/stream/19775490.m3u8
