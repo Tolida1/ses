@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",FC Dynamo Moskova - Krylia Sovetov (14:00 | Rusya Şampiyonası. Premier Lig)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1020.com/
+https://sw1.eroscloud.sbs/stream/19788449.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Ratchaburi F.C. - Samut Songkhram City (13:30 | Kulüpler Arası Dostluk Maçları)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1020.com/
+https://sw1.eroscloud.sbs/stream/19788376.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",F. Düsseldorf - B. Dortmund (14:00 | [object Object])
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1020.com/
+https://bbdbe444288550204c968fe7002a97a9.biz/trtspor/mono.m3u8?sign=79274e6583951dd3157b47b9d61b8cb00a292fdcc9e397c48031ae040428e9e3&ip=2a06:98c0:3600::103&expires=1784986011
 #EXTINF:-1 group-title="Canlı Maçlar",Mlava - Hutnik Warşova (13:30 | Kulüpler Arası Dostluk Maçları)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1020.com/
@@ -23,7 +35,3 @@ https://sw1.eroscloud.sbs/stream/19788049.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1020.com/
 https://sw1.eroscloud.sbs/stream/19787642.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Song Lam Nghe An F.C. U21 - Viettel F.C. U21 (12:00 | Vietnam Şampiyonası U21)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1020.com/
-https://sw1.eroscloud.sbs/stream/19787613.m3u8
