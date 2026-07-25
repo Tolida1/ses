@@ -1,17 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Deportes Quindio - Boca Juniors Cali (00:05 | Kolombiya Primera B)
+#EXTINF:-1 group-title="Canlı Maçlar",Antigua GFC - Deportivo Marquense (03:00 | Guatemala Şampiyonası. Ulusal Ligi)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1020.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30961963364732518413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Hviti Riddarinn - Kari Akranes (23:00 | İzlanda 2. Deild)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1020.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30934713651646054413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Vikingur Reykjavik - Keflavik (23:00 | Besta deild karla)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1020.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30856236984195072013/index.css
+https://sw1.eroscloud.sbs/stream/19783929.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Racing Club - Gymnasia (01:00 | [object Object])
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1020.com/
-https://bbdbe444288550204c968fe7002a97a9.biz/707/mono.m3u8?sign=b12c71ac877736da064d0c7fac8f0016c6c33d3b78d6934717ccddcf7db70bd3&ip=2a06:98c0:3600::103&expires=1784937010
+https://bbdbe444288550204c968fe7002a97a9.biz/707/mono.m3u8?sign=8bbe2d238629ed6971f9cbc74d33d01e89be0f786153426012441b54de4a528b&ip=2a06:98c0:3600::103&expires=1784945231
