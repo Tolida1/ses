@@ -1,29 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Bumprom - Maladzechna (13:00 | Belarus Şampiyonası. 1.Lig)
+#EXTINF:-1 group-title="Canlı Maçlar",Kvik Halden FK - SK Træff (14:00 | Norveç Şampiyonası. 2.Division)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://sw1.eroscloud.sbs/stream/19798168.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Skjetten - Bossekop UL |1 (13:00 | Norveç Şampiyonası. 3.Division)
+https://sw1.eroscloud.sbs/stream/19798615.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",BG Pathum United - Buriram United F.C. (14:00 | Kulüpler Arası Dostluk Maçları)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://sw1.eroscloud.sbs/stream/19798169.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Jagiellonia Białystok - ŁKS 1926 Łomża (12:30 | Kulüpler Arası Dostluk Maçları)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://sw1.eroscloud.sbs/stream/19797957.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Thanh Co Dat - Nam Phuong (11:59 | Kulüpler Arası Dostluk Maçları)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://sw1.eroscloud.sbs/stream/19797748.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Baltika (Bayanlar) - Strogino (Bayanlar) (12:00 | Rusya Şampiyonası. 1.Division. Bayanlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://sw1.eroscloud.sbs/stream/19797729.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Győri ETO FC II - Tatabánya (12:00 | Macaristan Şampiyonası. 3.Bölüm)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://sw1.eroscloud.sbs/stream/19797925.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Újpest FC II - BKV Előre SC (12:00 | Macaristan Şampiyonası. 3.Bölüm)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://sw1.eroscloud.sbs/stream/19797711.m3u8
+https://sw1.eroscloud.sbs/stream/19798549.m3u8
