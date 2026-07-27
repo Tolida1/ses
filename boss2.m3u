@@ -1,40 +1,32 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",MTK Budapest - Zalaegerszegi TE |1 (20:30 | Macaristan Şampiyonası. Süper Lig)
+#EXTINF:-1 group-title="Canlı Maçlar",KA Akureyri - Thor Akureyri (22:15 | Besta deild karla)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://sw1.eroscloud.sbs/stream/19811601.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Randers - Silkeborg (20:00 | Danimarka Süper Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30754079980148736013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Botosani - Rapid Bükreş (21:30 | Romanya Lig I)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30834546495792332813/index.css
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30865276395503206413/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",CSKA Sofia - PFC Botev Plovdiv 1912 (21:15 | Bulgaristan 1. Lig)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/30865276538738688013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",San Luis FC (W) - Newell's Old Boys (W) (21:00 | Arjantin Primera Division Kadınlar)
+#EXTINF:-1 group-title="Canlı Maçlar",Botosani - Rapid Bükreş (21:30 | Romanya Lig I)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30969541918831820813/index.css
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30834546495792332813/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Boca Juniors (W) - San Lorenzo (W) (21:00 | Arjantin Primera Division Kadınlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/30969200926110924813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",MTK Budapest - Zalaegerszegi TE (20:30 | Macaristan 1. Ligi)
+#EXTINF:-1 group-title="Canlı Maçlar",San Luis FC (W) - Newell's Old Boys (W) (21:00 | Arjantin Primera Division Kadınlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30874132944803840013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Sacachispas - Club Leandro Niceforo Alem (21:00 | Arjantin Primera C Metropolitana)
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30969541918831820813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Internacional de Bogota (W) - Fortaleza (W) (22:00 | Liga Femenina)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30987518389001011213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",CA Fenix - Yupanqui (21:00 | Arjantin Primera C Metropolitana)
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30945541897434316813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Galatasaray - SSC Venezia (21:00 | Kulüpler Hazırlık Maçları (Format Değişikliği Olabilir))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30931839287565107213/index.css
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30938884424132608013/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Union Santa Fe (W) - Gimnasia Y Esgrima La Plata (W) (21:00 | Arjantin Primera Division Kadınlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
@@ -51,74 +43,26 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/30945464931641344013/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/30865276405674393613/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Galatasaray - SSC Venezia (21:00 | Kulüpler Hazırlık Maçları (Format Değişikliği Olabilir))
+#EXTINF:-1 group-title="Canlı Maçlar",GV Club Deportivo San Jose de Oruro - Universitario De Vinto (22:00 | Bolivya Premier Lig)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30938884424132608013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",IFK Skovde FK - Jonkopings Sodra (20:00 | İsveç Kupası)
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30875851022319206413/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Mushuc Runa - Libertad FC (22:00 | Ekvador Primera A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30873580810295296013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Ready - Frigg (20:00 | Norveç 3. Ligi , Grup 1)
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30865632248748032013/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Sacachispas - Club Leandro Niceforo Alem (21:00 | Arjantin Primera C Metropolitana)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30875051530200268813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",FK Union Carl Berner - Asker Fotball (20:00 | Norveç 3. Ligi , Grup 1)
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30987518389001011213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",CA Fenix - Yupanqui (21:00 | Arjantin Primera C Metropolitana)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30875051558302105613/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Osters IF - Varbergs BoIS FC (20:05 | İsveç Superettan Ligi)
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30931839287565107213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Internacional de Bogota (Bayanlar) - Fortaleza Zipaquira (Bayanlar) (22:00 | Kolombiya Şampiyonası. Bayanlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30873643859387596813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Rosenborg BK - Fredrikstad FK (20:00 | Norveç Eliteserien Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30866391382120448013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Kamaz Nab Chelny - Rotor Volgograd (20:00 | Rusya FNL)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30871277758968217613/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Sarpsborg 08 2 - Orn Horten (20:00 | Norveç 3. Ligi , Grup 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30875051509753036813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Lokomotiv Oslo - KFUM 2 (20:00 | Norveç 3. Ligi , Grup 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30875051499686707213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Stabaek - IL Hodd Ulsteinvik (20:00 | Norveç 1. Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30825891708976742413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Miedz Legnica - Podbeskidzie Bielsko-Biala (20:00 | Polonya 1. Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30815699924074086413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Güney Afrika (Bayanlar) - Tanzania (W) (20:00 | Afrika Uluslar Kupası Kadınlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30945387512968396813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Zaglebie Lubin - Piast Gliwice (20:00 | Polonya Ekstraklasa)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30670447490599731213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Orebro SK - IK Oddevold (20:00 | İsveç Superettan Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30873580780410880013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Lyn Oslo 2 - Oppsal (20:00 | Norveç 3. Ligi , Grup 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30875051519190220813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",BK Hacken - AIK (20:00 | Isveç Allsvenskan Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30866391361463500813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Vittsjo GIK (W) - Malmo FF (W) (20:00 | İsveç Damallsvenskan)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30892154474590617613/index.css
+https://sw1.eroscloud.sbs/stream/19812272.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Galatasaray - Venezia II (21:00 | Test Yayını)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
@@ -127,19 +71,3 @@ https://ff.8b9035807842a4e4dbe009f3f1478127.biz/hls/hazirlik.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
 https://bbdbe444288550204c968fe7002a97a9.biz/hazirlik/mono.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Güney Afrika (Bayanlar) - Tanzanya (Bayanlar) (20:00 | Afrika Uluslar Kupası. Bayanlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://sw1.eroscloud.sbs/stream/19811585.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Lokomotiv Oslo - KFUM II |1 (20:00 | Norveç Şampiyonası. 3.Division)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://sw1.eroscloud.sbs/stream/19811436.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Lyn II - Oppsal IF (20:00 | Norveç Şampiyonası. 3.Division)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://sw1.eroscloud.sbs/stream/19811435.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",FC KAMAZ Naberezhnye Chelny - FC Rotor Volgograd (20:00 | Rusya Şampiyonası. 1.Liga)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://sw1.eroscloud.sbs/stream/19811321.m3u8
