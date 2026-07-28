@@ -1,21 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Uniao do Nzinga - Herois do Huambo (14:00 | Angola. Liga Bantu)
+#EXTINF:-1 group-title="Canlı Maçlar",Atletico de Boyeros - Santa Felicia (16:00 | Küba. Liga de Barrios)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://sw1.eroscloud.sbs/stream/19818647.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Paro FC - Thimphu FC (13:00 | Butan Premier Lig)
+https://sw1.eroscloud.sbs/stream/19819710.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Subiaco AFC (W) - Perth Redstar FC (W) (14:30 | Avustralya Western Premier Ligi Kadınlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30996461126224691213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Filipinler - Myanmar (13:00 | ASEAN Championship)
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30947992313220710413/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Brunei Dpmm FC - Persib Bandung (15:30 | Endonezya Başkanlık Kupası)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30911695292540108813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Chelsea - Western Sydney Wanderers (12:45 | Kulüpler Hazırlık Maçları (Format Değişikliği Olabilir))
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30986927784441036813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Ratchaburi F.C. - Selangor FA (15:00 | Kulüpler Arası Dostluk Maçları)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30980494869666611213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",University of Lausanne - University of Salerno (12:30 | Avrupa Üniversite Oyunları)
+https://sw1.eroscloud.sbs/stream/19819301.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",West Bromwich Albion U21 - PFA (15:00 | Kulüpler Arası Dostluk Maçları)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://sw1.eroscloud.sbs/stream/19818026.m3u8
+https://sw1.eroscloud.sbs/stream/19819278.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",BoMiK - Broke Boys (15:00 | Rusya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1022.com/
+https://sw1.eroscloud.sbs/stream/19819238.m3u8
