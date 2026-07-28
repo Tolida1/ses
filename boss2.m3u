@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Costa Rica U20 - Mexico U20 (05:00 | CONCACAF Championship U20, Group B)
+#EXTINF:-1 group-title="Canlı Maçlar",Alto Zambeze - Desportivo Kalandula (08:00 | Angola. Liga Bantu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30961135006469734413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Tauro F.C. - Sporting San Miguelito (04:30 | LPF)
+https://sw1.eroscloud.sbs/stream/19815868.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Griffin FC - Academy FC (07:00 | Regional League. A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30950261844299366413/index.css
+https://sw1.eroscloud.sbs/stream/19815462.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Eagles FC - Nordwind FC (06:30 | Regional League. A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1022.com/
+https://sw1.eroscloud.sbs/stream/19815442.m3u8
