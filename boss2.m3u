@@ -1,5 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Megapolis FC - Olympic FC (08:40 | Regional League. A)
+#EXTINF:-1 group-title="Canlı Maçlar",Celta Vigo - Academico Viseu (12:00 | Kulüpler Hazırlık Maçları (Format Değişikliği Olabilir))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://sw1.eroscloud.sbs/stream/19826571.m3u8
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30953475573291827213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Kampot - Kep (11:30 | Kamboçya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1022.com/
+https://sw1.eroscloud.sbs/stream/19827936.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Kampot - Kep Province (11:30 | Kamboçya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1022.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31014630951291699213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Port MTI F.C. - Persija Jakarta (Isl) (11:30 | Endonezya Başkanlık Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1022.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30992486262224076813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Nha La - Minh hai (10:55 | Kulüpler Arası Dostluk Maçları)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1022.com/
+https://sw1.eroscloud.sbs/stream/19827668.m3u8
