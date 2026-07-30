@@ -1,5 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Griffin FC - Titan FC (07:00 | Regional League. A)
+#EXTINF:-1 group-title="Canlı Maçlar",Rebels FC - Dragons FC (10:56 | Regional League. W)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19836109.m3u8
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19837910.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",University of Salerno - University of Jyvaskyla (10:00 | European Universities Games (Possible Format Change))
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1022.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31023443271237222413/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Mallorca - Al-Ittihad (11:00 | Kulüpler Hazırlık Maçları (Format Değişikliği Olabilir))
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1022.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31006853627972403213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",MLS Lawngtlai - Lushai (11:15 | India. MFA Independence Day Cup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1022.com/
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19838082.m3u8
