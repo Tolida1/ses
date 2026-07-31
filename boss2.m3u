@@ -1,24 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Lawton City - Tigres De Nunez (18:15 | Küba. Liga de Barrios)
+#EXTINF:-1 group-title="Canlı Maçlar",Puskás Akadémia FC - Kisvarda (21:00 | Macaristan Şampiyonası. Süper Lig)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19851498.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Baltika Kaliningrad (Youth) - Sochi (Gençler) (19:00 | Rusya Şampiyonası. Gençler Birinciliği. Division B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19852194.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Atletico San Luis U21 - Tijuana U21 (18:00 | Meksika Şampiyonası U21)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19851553.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Hlubina - Zbrojovka II (18:30 | Çek Cumhuriyeti Şampiyonası. 3.Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19851681.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Olimpia Elbląg - Wisla PLock II (18:00 | Polonya Şampiyonası. 3.Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19851496.m3u8
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19852800.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Rouen Üniversitesi - Wurzburg Üniversitesi (19:30 | Avrupa Üniversite Oyunları)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
@@ -27,27 +11,19 @@ https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19852252.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
 https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19851968.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",FC Slutsk - SKA-1938 |1 (18:30 | Belarus Şampiyonası. 1.Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19851740.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Kirovets Voshozhdenie (Gençler) - Orenburg (Gençler) (18:30 | Rusya Şampiyonası. Gençler Birinciliği. Division B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19851707.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Rodina Moscow - FC Rostov (20:00 | Rusya Şampiyonası. Premier Lig)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
 https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19852310.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Puebla U21 - C.D. Guadalajara U21 |1 (18:00 | Meksika Şampiyonası U21)
+#EXTINF:-1 group-title="Canlı Maçlar",Juarez U19 - Pumas UNAM U19 (20:00 | Meksika Şampiyonası U19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19851747.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Vis Pesaro - Benevento Calcio |1 (18:30 | Kulüpler Arası Dostluk Maçları)
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19852541.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",U.S. Sassuolo Calcio - Folgore Caratese A.S.D. (20:00 | Kulüpler Arası Dostluk Maçları)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19851885.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",FC Dinamo Minsk II - Niva Dolbizno (19:00 | Belarus Şampiyonası. 1.Lig)
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19852746.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Loznica - Proleter Zrenjanin (21:00 | Sırbistan Şampiyonası. 1. lig)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19851969.m3u8
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19852900.m3u8
