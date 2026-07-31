@@ -1,17 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Sporting CP - Not. Forest (21:45)
+#EXTINF:-1 group-title="Canlı Maçlar",Dominik Cumhuriyeti (Bayanlar) - Kosta Rika (Bayanlar) (02:00 | Orta Amerika ve Karayipler Oyunları. Bayanlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://bbdbe444288550204c968fe7002a97a9.biz/trtspor/mono.m3u8?sign=ce0cba5f34d2d8e0755f31f68fec14a6c41bdc34c4e8cd2846a4ca3a4313fecf&ip=2a06:98c0:3600::103&expires=1785540969
-#EXTINF:-1 group-title="Canlı Maçlar",Porto Riko (Bayanlar) - Jamaica (Bayanlar) (23:00 | Orta Amerika ve Karayipler Oyunları. Bayanlar)
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19854904.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Kolombiya (Bayanlar) - Meksika (Bayanlar) (02:00 | Orta Amerika ve Karayipler Oyunları. Bayanlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19853933.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Venezuela (Bayanlar) - El Salvador (Bayanlar) |1 (23:00 | Orta Amerika ve Karayipler Oyunları. Bayanlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19853938.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Alianza Universidad - Sport Huancayo II (23:00 | Peru Şampiyonası. 2.Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19853801.m3u8
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19854901.m3u8
