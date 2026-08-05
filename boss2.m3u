@@ -1,32 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Fenerbahçe - Sturm Graz (21:00 | UEFA Şampiyonlar Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://bbdbe444288550204c968fe7002a97a9.biz/tv100/mono.m3u8?sign=1faf76d33e47e2de2022d3f6b2d8df88419c00451613da99d00bd6633b419e17&ip=2a06:98c0:3600::103&expires=1785967465
-#EXTINF:-1 group-title="Canlı Maçlar",Slavia Prague (K) - Rangers (K) (21:30 | UEFA Şampiyonlar Ligi Elemeleri Kadınlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30990473633733427213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Juventus (K) - Torreense (K) (22:00 | UEFA Şampiyonlar Ligi Elemeleri Kadınlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30990474046557798413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Panathinaikos - CSKA 1948 (21:30 | UEFA Avrupa Konferans Ligi Elemeleri)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31028366322345164813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Ferencváros - Gornik Zabrze (21:15 | UEFA Avrupa Ligi Elemeleri)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31032169228785664013/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Arsenal - Real Betis (21:30 | Kulüpler Arası Dostluk Maçları)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://bbdbe444288550204c968fe7002a97a9.biz/trtspor/mono.m3u8?sign=1faf76d33e47e2de2022d3f6b2d8df88419c00451613da99d00bd6633b419e17&ip=2a06:98c0:3600::103&expires=1785967465
-#EXTINF:-1 group-title="Canlı Maçlar",Mallorca - PSG (22:00 | Kulüpler Hazırlık Maçları (Format Değişikliği Olabilir))
+https://bbdbe444288550204c968fe7002a97a9.biz/trtspor/mono.m3u8?sign=8403e8fb8d63aabe907de2e1dcf630925b8cca4e5487a34a79e23b7bd808f871&ip=2a06:98c0:3600::103&expires=1785973534
+#EXTINF:-1 group-title="Canlı Maçlar",Universidad San Antonio Abad del Cusco (W) - Atletico Andahuaylas (W) (23:00 | Campeonato Nacional Women)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31015007001788006413/index.css
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31020404374781542413/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Universidad San Antonio Abad (Bayanlar) - Atletico Andahuaylas (Bayanlar) (23:00 | Peru Şampiyonası. Bayanlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1022.com/
