@@ -1,17 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Bravos da Quissama - Sporting do Imbondeiro (08:00 | Angola. Liga Bantu)
+#EXTINF:-1 group-title="Canlı Maçlar",Nordwind FC - Eagles FC (08:30 | Regional League. A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19917475.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",United FC - Leader FC (06:30 | Regional League. A)
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19917787.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Academy FC - Griffin FC (09:00 | Regional League. A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19916806.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Titan FC - Shark FC (07:00 | Regional League. A)
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19917769.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Raptors FC - Rebels FC (09:07 | Regional League. W)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19916995.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Calle 74 - Spartans de Barrios (07:00 | Küba. Liga de Barrios)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19916901.m3u8
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19917924.m3u8
