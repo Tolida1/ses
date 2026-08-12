@@ -1,53 +1,29 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Fraijanes FC - AFF Guatemala (00:00 | Guatemala Birinci Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31083883713019494413/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Achuapa FC - CSD Sayaxche (00:00 | Guatemala Birinci Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31135928259303424013/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Leeds United - Man. United (21:30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://bbdbe444288550204c968fe7002a97a9.biz/trtspor/mono.m3u8?sign=4434c25a4bc3ae87f0eb69c85ae6a7a7525fd2cedef893258d51b200dc7765fd&ip=2a06:98c0:3600::103&expires=1786572325
-#EXTINF:-1 group-title="Canlı Maçlar",Deportivo La Coruna - Real Madrid (22:00 | Kulüpler Hazırlık Maçları (Format Değişikliği Olabilir))
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31083884098476032013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Nottingham Forest - Bayer Leverkusen (21:45 | Kulüpler Hazırlık Maçları (Format Değişikliği Olabilir))
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31019191423168921613/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Throttur Reykjavik (W) - Valur Reykjavik (W) (22:15 | İzlanda Urvalsdeild Kadınlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31083882804008960013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Manchester United - Leeds United (21:30 | Kulüpler Hazırlık Maçları (Format Değişikliği Olabilir))
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31083884108752076813/index.css
+https://bbdbe444288550204c968fe7002a97a9.biz/trtspor/mono.m3u8?sign=81c07f8a8448cf1f86f2c4a32eb970a21a5a6b2d233f4b2e4ca235438838e20b&ip=2a06:98c0:3600::103&expires=1786576886
 #EXTINF:-1 group-title="Canlı Maçlar",PSG - Aston Villa (22:00 | Featured Match)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://bbdbe444288550204c968fe7002a97a9.biz/trt1/mono.m3u8?sign=4434c25a4bc3ae87f0eb69c85ae6a7a7525fd2cedef893258d51b200dc7765fd&ip=2a06:98c0:3600::103&expires=1786572325
-#EXTINF:-1 group-title="Canlı Maçlar",San Martin Formosa - Sportivo Belgrano (22:00 | Arjantin Torneo A)
+https://bbdbe444288550204c968fe7002a97a9.biz/trt1/mono.m3u8?sign=81c07f8a8448cf1f86f2c4a32eb970a21a5a6b2d233f4b2e4ca235438838e20b&ip=2a06:98c0:3600::103&expires=1786576886
+#EXTINF:-1 group-title="Canlı Maçlar",Achuapa - Club Social y Depotrivo Sayaxche (00:00 | Guatemala Şampiyonası. Premier Ligi)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31083883366569984013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Arsenal - Como (21:30 | Kulüpler Hazırlık Maçları (Format Değişikliği Olabilir))
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19975207.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Champs Academy - San Benito Peten |1 (23:00 | Guatemala Şampiyonası. Premier Ligi)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31064895639535206413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",UD Tomares - Cadiz B (21:30 | Kulüpler Hazırlık Maçları (Format Değişikliği Olabilir))
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19974897.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Fraijanes - AFF Guatemala (00:00 | Guatemala Şampiyonası. Premier Ligi)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31143238701012992013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Defensores de Belgrano VR - Douglas Haig (21:30 | Arjantin Torneo A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31133696417401651213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Magallanes - Cobreloa Calama (22:00 | Şili B Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31020452840488550413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Napoli - Aris Thessaloniki (22:00 | Kulüpler Hazırlık Maçları (Format Değişikliği Olabilir))
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31134626692533043213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Tomares - Cádiz CF II (21:30 | Kulüpler Arası Dostluk Maçları)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19974278.m3u8
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19975218.m3u8
