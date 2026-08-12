@@ -1,16 +1,36 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",ZaKiDoK Serdobsk - Olimp Samara (15:00 | Cup of Amateurs Privolzhie)
+#EXTINF:-1 group-title="Canlı Maçlar",Progresul Spartac - Metaloglobus (17:30 | Romanya Kupası)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31142802390846259213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",KDV Tomsk - FC Sibir Novosibirsk (15:00 | Russian Cup Regions Path)
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31134647248292659213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",ACS Oltul Curtisoara - CSM Slatina (17:30 | Romanya Kupası)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31128103160554700813/index.css
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31134649011053772813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",FK Kaluga - Iskra Smolensk (17:00 | Russian Cup Regions Path)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31128186366318592013/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",ACS USV Iasi - Cetatea Suceava (17:30 | Romanya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31134666919578419213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",ACS CIL Blaj - Cs Sanatatea Servicii Publice Cluj (17:30 | Romanya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31134615828761395213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Shumbrat Saransk - FC 2DROTS Moscow (17:00 | Russian Cup Regions Path)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31128186355727974413/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Mohammedan Sc - Army Red (16:30 | Hindistan Durand Kupası)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31083884138741350413/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",CS Minaur Baia Mare - CSM Olimpia Satu Mare (17:30 | Romanya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31134631628285132813/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Znamya Noginsk - FK Dinamo Bryansk (16:00 | Russian Cup Regions Path)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -19,6 +39,18 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31134039647469158413/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31134039630901657613/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",AS USV Iasi - Cetatea Suceava (17:30 | Romanya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19972363.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Baicoi - Metalul Buzau (17:30 | Romanya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19972356.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Doroznik Kamenka - Rodnya Kazan (17:00 | Rusya. 3.Bölüm. Privolzhe Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19972191.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Leones de la Lisa - Dragones del Cerro (16:00 | Küba. Liga de Barrios)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -27,10 +59,18 @@ https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19971591.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31083884759288627213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Fankom Broke Boys - Dynamo Kirov (17:00 | Rusya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19971996.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Krasnoye Znamya-Syndekat - Dynamo Bryansk (16:00 | Rusya Kupası)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19971643.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Shumbrat Saransk - 2Drots (17:00 | Rusya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19972155.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Irtysh Omsk - Saturn Ramenskoye (16:00 | Rusya Kupası)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -39,11 +79,11 @@ https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19971636.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19971645.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Zakidok - Olympus Samara (15:00 | Rusya. 3.Bölüm. Privolzhe Kupası)
+#EXTINF:-1 group-title="Canlı Maçlar",FC Amkar Perm - Pobeda Nizhny Novgorod (17:00 | Rusya Kupası)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19971232.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",KDV - FC Sibir Novosibirsk (15:00 | Rusya Kupası)
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19972153.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",FC Kaluga - Iskra Smolensk |1 (17:00 | Rusya Kupası)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19971152.m3u8
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19972142.m3u8
