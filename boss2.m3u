@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Puerto Montt - Union Espanola (02:00 | Şili B Ligi)
+#EXTINF:-1 group-title="Canlı Maçlar",Deportivo Saprissa - Deportivo Mixco (05:00 | CONCACAF Central American Cup, Group C)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31011742667259494413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Avai - CRB Clube de Regatas Brasil (01:30 | Brasileiro Serie B)
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31024025720392499213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Club Tigres de la UANL - Vancouver Whitecaps (05:00 | CONCACAF Leagues Cup)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31007170027077222413/index.css
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31011375622353305613/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Real Esteli FC - Alianza FC San Salvador (05:00 | CONCACAF Central American Cup, Group B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31024025741364019213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Real Salt Lake - FC Juarez (04:30 | CONCACAF Leagues Cup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31011375643219968013/index.css
