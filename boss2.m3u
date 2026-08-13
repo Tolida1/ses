@@ -1,21 +1,33 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Bodoland FC - Karbi Anglong (13:30 | Hindistan Durand Kupası)
+#EXTINF:-1 group-title="Canlı Maçlar",Aktobe II - FC Shakhter Karagandy (16:00 | Kazakistan 1. Lig)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31146675675505868813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Uniao do Nzinga - Herois do Huambo (14:00 | Angola. Liga Bantu)
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31150296677813043213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Liefering - Aris Limmasol (16:00 | Kulüpler Hazırlık Maçları (Format Değişikliği Olabilir))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19980696.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Nsuopun Fidelity - Tamale City (13:00 | Gana Süper Kupası)
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31151472841709568013/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",FC Merani Tbilisi - Guria Lanchkhuti (16:00 | Gürcistan Erovnuli Liga 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19980265.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Prince Park - Chung Suc (14:00 | Kulüpler Arası Dostluk Maçları)
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31143095149700300813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Real Castilla Kholy - UCCFD Manuel Fajardo (16:00 | Küba. Liga de Barrios)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19980982.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",De Potters FA - Newhope Naija (14:30 | Nijerya. 1XBET Community Cup)
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19981703.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Bali United Pusam F.C. - Sabah FA (15:00 | Kulüpler Arası Dostluk Maçları)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19981006.m3u8
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19981335.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Shillong Lajong F.C. - Langsning (16:30 | Hindistan. Durand Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19982048.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Merani Tbilisi - FC Guria Lanchkhuti |1 (16:00 | Gürcistan Şampiyonası. 3.Lig)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19981810.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",China Sunstars - Maryland United (16:00 | Nijerya. 1XBET Community Cup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19981719.m3u8
