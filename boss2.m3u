@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",test - test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://ff.8b9035807842a4e4dbe009f3f1478127.biz/hls/701.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",AA Ponte Preta - Nautico Capibaribe (01:30 | Brasileiro Serie B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -7,10 +11,6 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31036657135848243213/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31065777633299251213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Carmelita - Consultants Desamparados (00:00 | Kosta Rika Liga de Ascenso Apertura gr. B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31147379960174592013/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",CD Atletico del Oriente - Chimbarongo FC (01:00 | Şili Tercera Division)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
