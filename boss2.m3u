@@ -3,15 +3,31 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://ff.8b9035807842a4e4dbe009f3f1478127.biz/hls/sport.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Eagles FC - Olympic FC (09:00 | Regional League. A)
+#EXTINF:-1 group-title="Canlı Maçlar",Arkonia Szczecin U19 - Gornik Zabrze U19 (11:00 | Polonya Şampiyonası U19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19988672.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Independente Candomble Bantu - Alto Zambeze (08:00 | Angola. Liga Bantu)
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19989697.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",FC Ural Sverdlovsk Bölgesi (Gençler) - FC Rostov (Gençler) (11:00 | Rusya. Gençler Şampiyonası. Division A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19988224.m3u8
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19989689.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Uniao do Nzinga - Bravos da Quissama (10:00 | Angola. Liga Bantu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19989162.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Colossus FC - Spartans FC (09:02 | Regional League. W)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19988879.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Athletic FC - Glory FC (09:30 | Regional League. A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19988764.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Super Stars Long Thuan - Phumi Hing (10:50 | Kulüpler Arası Dostluk Maçları)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19989631.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Van Nhum - Tan bien (10:30 | Kulüpler Arası Dostluk Maçları)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/19989537.m3u8
