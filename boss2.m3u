@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Club Atletico La Paz - Piratas Veracruz (06:00 | Liga de Expansion MX Apertura)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31102481078697574413/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Salisbury Inter (W) - West Torrens Birkalla SC (W) (06:00 | Güney Avustralya Premier Ligi Kadınlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31149020896260505613/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",O'Connor Knights U23 - Canberra White Eagles U23 (05:30 | Avustralya. ACT Ulusal Premier Lig U23)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -27,31 +35,3 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31152236289447936013/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/19997782.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Vancouver Langley FC - Pacific FC (04:00 | Kanada Premier Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31039704994273280013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",San Francisco FC - Independiente de La Chorrera (04:30 | LPF)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31151610975659212813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Municipal Limeno - Inter Santa Tecla (04:00 | Primera Division Apertura)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31047455903333990413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Cruz Azul (W) - Atlante (W) (04:00 | Meksika Liga MX Femenil)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31044465646229504013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Correcaminos - CD Tapatio (04:00 | Liga de Expansion MX Apertura)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31063085323717427213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Mineros De Zacatecas - Venados Merida FC (04:00 | Liga de Expansion MX Apertura)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31063085335146905613/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Cruz Azul (Bayanlar) - Atlante (Bayanlar) (04:00 | Meksika Şampiyonası. Liga MX. Bayanlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/19997335.m3u8
