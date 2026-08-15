@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",FC Chelyabinsk - Torpedo Moskva (13:30 | Rusya FNL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31038528283649228813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Gimhae City - Gyeongnam FC (13:30 | Kore Cumhuriyeti K-Lig 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31038527210012262413/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Cheongju City FC - Jeonnam Dragons (13:30 | Kore Cumhuriyeti K-Lig 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31038527201413939213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",FC Chelyabinsk - FC Torpedo Moskova (13:30 | Rusya Şampiyonası. 1.Liga)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20001348.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Attram De Visser - Real Tamale United |1 (13:00 | Gana Süper Kupası. Division 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20001270.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Attram De Visser - Real Tamale United (13:00 | Gana Süper Kupası)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -51,6 +71,22 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31030041174516940813/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31142211466680320013/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",UKS SMS Łódź (Bayanlar) - Sleza Wroclaw (Bayanlar) (13:00 | Polonya Şampiyonası. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20001250.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Widzew Łódź II - Świt Nowy Dwór Mazowiecki |1 (13:00 | Polonya Şampiyonası. 3.Lig)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20001186.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Śląsk Wrocław II - Chojniczanka Chojnice |1 (13:00 | Polonya Şampiyonası. 2.Lig)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20001251.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Stomilanki Olsztyn (Bayanlar) - UKS Staszkowka Jelna (Bayanlar) (13:00 | Polonya Şampiyonası. Liga 1. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20001161.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Avangard Kursk - FC Zenit Penza (13:00 | Rusya Şampiyonası. 2.Liga. Division B. Grup 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -107,18 +143,6 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31154006048757760013/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31029485531787673613/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",SK Prostejov B - SFK Holesov (11:30 | Çek Cumhuriyeti 4. Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31156999095703552013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Hlinsko - Tj Dvur Kralove (11:30 | Çek Cumhuriyeti 4. Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31156807441700864013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Sunshine Coast Wanderers (K) - Gold Coast Knights (K) (11:30 | Avustralya NPL Queensland Kadınlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31123320709332582413/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Iskierka Szczecin - Arkonia Szczecin |1 (12:00 | Polonya Şampiyonası. 4.Lig)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -147,51 +171,3 @@ https://sw1.eroscloud.sbs/stream/20000696.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20000623.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Velke Hamry - SK Zapy (11:30 | Çek Cumhuriyeti Şampiyonası. 3.Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20000460.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Prostejov II - SFK Holešov (11:30 | Çek Cumhuriyeti Şampiyonası. 4.Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20000479.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",FK Teplice U19 - Banik Ostrava U19 (11:30 | Çek Cumhuriyeti Şampiyonası U19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20000561.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Hlinsko - TJ Dvůr Králové nad Labem (11:30 | Çek Cumhuriyeti Şampiyonası. 4.Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20000461.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",ABC Braník - Spartak Kbely (11:15 | Çek Cumhuriyeti. Bölgesel Şampiyona)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20000092.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Aritma Prag - Povltavska akademy |1 (11:15 | Çek Cumhuriyeti Şampiyonası. 3.Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20000083.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",FK Neratovice-Byškovice - Jablonec II |1 (11:15 | Çek Cumhuriyeti Şampiyonası. 3.Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20000086.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Krimice - FK Junior Strakonice |1 (11:15 | Çek Cumhuriyeti Şampiyonası. 4.Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20000068.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Slavia HK - TJ Svitavy |1 (11:15 | Çek Cumhuriyeti Şampiyonası. 4.Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20000078.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",FK Baník Sokolov - Chomutov |1 (11:15 | Çek Cumhuriyeti Şampiyonası. 4.Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20000072.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Brandys nad Labem - 1. FC Karlovy Vary (11:15 | Çek Cumhuriyeti Şampiyonası. 4.Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20000070.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",CS Gloria Bistrita - Concordia Chiajna |1 (11:00 | Romanya Şampiyonası. 2.Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20000218.m3u8
