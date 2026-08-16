@@ -3,10 +3,42 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20007938.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Dallas Trinity (W) - Tampa Bay Sun (W) (03:30 | USL Super League Women)
+#EXTINF:-1 group-title="Canlı Maçlar",Vancouver Rise (W) - Halifax Tides (W) (04:30 | Northern Super League Women)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31168627172615372813/index.css
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31143398947543040013/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Oakland Roots SC - Monterey Bay (05:00 | ABD USL Şampiyonası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31047588884790886413/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Orange County Sc - Louisville City FC (05:00 | ABD USL Şampiyonası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31047588924217344013/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Deportivo Saprissa - CS Cartagines (05:00 | Primera Division Apertura)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31072220408253235213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Real Salt Lake - Minnesota United (04:30 | ABD MLS Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30988235382305996813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Colorado Rapids - Sporting Kansas City (04:30 | ABD MLS Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30988026807746969613/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",New Mexico United - Tulsa Roughnecks FC (04:30 | ABD USL Şampiyonası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31047588939736268813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Real Espana - CA Independiente Siguatepeque (04:30 | Honduras Reserve Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31060723543640883213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",UMECIT - Sporting San Miguelito (04:30 | LPF)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31147446378761011213/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Tigres U.A.N.L.(W) - FC Juarez (W) (04:06 | Meksika Liga MX Femenil)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -63,47 +95,7 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31047588869691392013/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31048668116749107213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Houston Dynamo - LA Galaxy (03:30 | ABD MLS Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30988399947710873613/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Nashville SC - Inter Miami (03:30 | ABD MLS Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30988007958125363213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Austin FC II - Vancouver Whitecaps II (03:30 | MLS Next Pro League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31048541961102540813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Alianza Lima - Universidad Tecnica de Cajamarca (03:30 | Peru 1. Lig-Clasura)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31047590110785945613/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Swope Park Rangers - Colorado Rapids II (03:00 | MLS Next Pro League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31048352788240384013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Mushuc Runa - Barcelona SC (03:00 | Ekvador Primera A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31047589766328729613/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Everton Vina del Mar - Audax Italiano Santiago (03:00 | Şili Primera Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31046477437327360013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Sao Paulo - Coritiba FC PR (03:00 | Brezilya Serie A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31048352800613580813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Union Espanola - San Marcos de Arica (03:00 | Şili B Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31047589484261785613/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Belconnen United U23 - Canberra Olympic U23 (03:00 | Avustralya. ACT Ulusal Premier Lig U23)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20007438.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Platense - Boca Juniors (03:15 | Arjantin Şampiyonası. Premier Division)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://bbdbe444288550204c968fe7002a97a9.biz/707/mono.m3u8?sign=5006ffa896e46ddb5d44439eae6b6a3f722c45d2267663f6079416654a76db46&ip=2a06:98c0:3600::103&expires=1786851457
+https://bbdbe444288550204c968fe7002a97a9.biz/707/mono.m3u8?sign=75284ae6dd81c4634166761bed118f646804ffb36e2855e1c4c43a3fed09f19e&ip=2a06:98c0:3600::103&expires=1786854860
