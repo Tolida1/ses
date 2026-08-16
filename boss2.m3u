@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Dynamo Vladivostok - FK Sokol Saratov (11:00 | Rusya FNL 2, Grup 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31160383042659532813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",FC Bacau - Steaua Bucuresti (11:00 | Romanya Liga II)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31038528449638809613/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Dynamo Vladivostok - Sokol Saratov (11:00 | Rusya Şampiyonası. 2.Liga. Division A. Altın)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20010462.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Subiaco AFC (W) - Perth Redstar FC (W) (10:45 | Avustralya Western Premier Ligi Kadınlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31132094587223654413/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Tinh Quan Dan - Van Nhum (10:00 | Kulüpler Arası Dostluk Maçları)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -43,27 +59,3 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31120104062153113613/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31120104528035430413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",West Canberra Wanderers (W) - Tuggeranong United (W) (09:00 | Avustralya NPL Capital Territory Kadınlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31148732339155353613/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Virginia United - Pine Hills (08:45 | Avustralya Queensland Premier Lig 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31158303999147622413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Taringa Rovers - Samford Rangers Fc (08:45 | Avustralya Queensland Premier Lig 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31158015386363084813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Mitchelton FC - Southside Eagles (08:45 | Avustralya Queensland Premier Lig 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31158013837826048013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Brisbane Knights - Moreton City Excelsior FC 2 (08:45 | Avustralya Queensland Premier Lig 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31158304012359680013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Grange Thistle SC - Caloundra (08:45 | Avustralya Queensland Premier Lig 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31158397854144512013/index.css
