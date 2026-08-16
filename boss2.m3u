@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",New England Revolution II - Philadelphia Union II (02:00 | MLS Next Pro League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31057061067112038413/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Corinthians - Cruzeiro (01:30 | Brezilya Serie A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -35,7 +31,15 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31025722608913203213/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31025723982967193613/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Emelec Guayaquil - Tecnico Universitario (00:15 | Ekvador Primera A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31047589757730406413/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",River Plate - Argentinos Juniors (00:00 | Liga Profesional - Clausura)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31049751544374476813/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",River Plate - Argentinos Jr. (00:00 | [object Object])
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://bbdbe444288550204c968fe7002a97a9.biz/707/mono.m3u8?sign=b6dd0216e0bbede243bafef75951bf31c380bd9ee17503f14d13f8e8ebb7ad78&ip=2a06:98c0:3600::103&expires=1786929709
+https://bbdbe444288550204c968fe7002a97a9.biz/707/mono.m3u8?sign=0de3369ffcd55bfd68d40b9d1cc440a38fdd0e8d461fd47ef2a66715ec5299f4&ip=2a06:98c0:3600::103&expires=1786927520
