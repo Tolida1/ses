@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",United FC - Nordwind FC (06:30 | Regional League. A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20018370.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Club Tijuana Xoloitzcuintles de Caliente - Cruz Azul (06:00 | Meksika Liga MX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/30988076398890598413/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Seattle Sounders - Vancouver Whitecaps (05:30 | ABD MLS Ligi)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -7,15 +15,3 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/30988280606025728013/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31155247423281152013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Los Angeles II - Tacoma Defiance (05:00 | MLS Next Pro League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31058259899963392013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Olancho FC - Juticalpa FC (04:30 | Honduras Reserve Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31062535447422156813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Santos Laguna Mexico - CD Chivas de Guadalajara (04:10 | Meksika Liga MX)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30988076387356262413/index.css
