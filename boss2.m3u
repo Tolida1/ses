@@ -1,21 +1,49 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Futera United - BG Pathum United U21 (12:30 | Kulüpler Arası Dostluk Maçları)
+#EXTINF:-1 group-title="Canlı Maçlar",Altay Oskemen (W) - Tobol Kostanay (W) (14:00 | Kazakistan Süper Ligi Kadınlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20021393.m3u8
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31187065527719936013/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Ningbo Professional U20 - Henan U20 (14:00 | National Games U20)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31168759951906816013/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Shenzhen Peng City U20 - Shanghai Shenhua U20 (14:00 | National Games U20)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31177616374854041613/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Hubei Istar U20 - Shandong Taishan U20 (14:00 | National Games U20)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31176181789926604813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Zhejiang Professional U20 - Tianjin Jinmen Tigers U20 (14:00 | National Games U20)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31176181773568819213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Atyrau (Bayanlar) - Zhetysu (Bayanlar) (14:00 | Kazakistan Şampiyonası. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20021736.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Zhejiang Professional U20 - Tianjin Tiger U20 |1 (14:00 | Çin U20 Şampiyonası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20021776.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Shenzhen Peng City U20 - Shanghai Shenhua U20 |1 (14:00 | Çin U20 Şampiyonası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20021800.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Hubei Istar U20 - Shandong Taishan U20 |1 (14:00 | Çin U20 Şampiyonası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20021775.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Alto Zambeze - Welwitschia Mirabilis (14:00 | Angola. Liga Bantu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20021694.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Altay Ust-Kamenogorsk (Bayanlar) - Tobol Kostanay (Bayanlar) (14:00 | Kazakistan Şampiyonası. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20021712.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Slavia-Mozyr II - Neman Grodno II (13:00 | Belarus Şampiyonası. 2.Lig)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20021312.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Ayeyawady United (W) - FC Jurong (W) (12:30 | AFC Club Championship Women)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31185984731810611213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Phuong Xom Dao - Phong Tra Bolero (12:00 | Kulüpler Arası Dostluk Maçları)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20020904.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Desportivo Kalandula - Bravos da Quissama (12:00 | Angola. Liga Bantu)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20020759.m3u8
