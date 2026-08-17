@@ -1,17 +1,9 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Sporting do Imbondeiro - Uniao do Nzinga (08:00 | Angola. Liga Bantu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20018870.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",United FC - Nordwind FC (06:30 | Regional League. A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20018370.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Club Tijuana Xoloitzcuintles de Caliente - Cruz Azul (06:00 | Meksika Liga MX)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30988076398890598413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Seattle Sounders - Vancouver Whitecaps (05:30 | ABD MLS Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/30988280606025728013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",San Jose Earthquakes II - St Louis City II (05:30 | MLS Next Pro League)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31155247423281152013/index.css
