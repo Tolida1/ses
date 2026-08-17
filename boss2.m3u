@@ -1,9 +1,17 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",April 25 National Defence Sports Club (W) - Kharaatsai (W) (12:00 | AFC Club Championship Women)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31185989754279936013/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Phuong Xom Dao - Phong Tra Bolero (12:00 | Kulüpler Arası Dostluk Maçları)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20020904.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Desportivo Kalandula - Bravos da Quissama (12:00 | Angola. Liga Bantu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20020759.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Thunderbirds FC - Legion FC (11:03 | Regional League. W)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20020401.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Independente Candomble Bantu - Herois do Huambo (10:00 | Angola. Liga Bantu)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20019777.m3u8
