@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Kilamba - Yamba (14:00 | Angola. Liga Bantu)
+#EXTINF:-1 group-title="Canlı Maçlar",Shanghai Shenhua - Beijing Guoan (14:35 | Çin Süper Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31169973634796339213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Kingsley - Gwelup Croatia (14:30 | Avustralya Western State Lig 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31191920341486387213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Kilamba - Jamba (14:24 | Angola. Liga Bantu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20031717.m3u8
@@ -19,7 +27,3 @@ https://sw1.eroscloud.sbs/stream/20031557.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20031297.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",SD Raiders - Sydney FC (12:30 | Avustralya FFA Kupası)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31186891348236288013/index.css
