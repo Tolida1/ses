@@ -1,9 +1,17 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Meghalaya Police - Langsning (13:30 | Hindistan. Premier Lig. Shillong)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20031557.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Attram De Visser - Nsuopun Fidelity (13:00 | Gana Süper Kupası. Division 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20031297.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",SD Raiders - Sydney FC (12:30 | Avustralya FFA Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31186891348236288013/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Honga - Estrela Humpata (12:00 | Angola. Liga Bantu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20030754.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Thunderbirds FC - Lightning FC (11:18 | Regional League. W)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20030456.m3u8
