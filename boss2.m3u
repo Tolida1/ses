@@ -1,8 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Krylia Sovetov - FC Zenit Saint Petersburg (16:15 | Rusya Kupası)
+#EXTINF:-1 group-title="Canlı Maçlar",Krasnoye Znamya - Salyut Dolgoprudny (17:00 | Rusya. 3.Bölüm. Moskova Bölgesi Kupası)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20043393.m3u8
+https://sw1.eroscloud.sbs/stream/20043966.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Niki Volou - Panionios NFC (17:00 | Yunanistan Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31044232232373043213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Musongati FC - Rukinzo FC (16:45 | Burundi Premier Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31206795596545638413/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Kryliya Sovetov - Zenit (16:15 | Rusya Kupası, Grup C)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -23,7 +31,3 @@ https://sw1.eroscloud.sbs/stream/20043474.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20043333.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Akademia 2012 Jaworzno - Zaglebie Sosnowiec II (15:00 | Polonya. Bölgesel Kupa)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20042929.m3u8
