@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Fencibles United - Auckland United (10:30 | Yeni Zelanda Kuzey Premier Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31196639414782771213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Dragons FC - Raptors FC (10:13 | Regional League. W)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20040348.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Welwitschia Mirabilis - Sporting do Imbondeiro (10:00 | Angola. Liga Bantu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20040217.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Dark FC - Iron FC (09:00 | Regional League. W)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -7,7 +19,3 @@ https://sw1.eroscloud.sbs/stream/20039791.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20039565.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Uniao do Nzinga - Alto Zambeze (08:00 | Angola. Liga Bantu)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20039303.m3u8
