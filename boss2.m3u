@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Thunderbirds FC - Spartans FC (12:06 | Regional League. W)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20041445.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Independente Candomble Bantu - Bravos da Quissama (12:00 | Angola. Liga Bantu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20041195.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Oddar Meanchey - Siem Reap Province (11:30 | Kamboçya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20041099.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Kim Tai - Hung Dien Lanh (11:00 | Kulüpler Arası Dostluk Maçları)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20041089.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Kampong Speu - Phom Da Mohanokor (11:30 | Kamboçya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20041075.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",New Lambton FC (W) - Adamstown Rosebud (W) (11:00 | Avustralya Northern NSW Premier Lig Kadınlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -7,15 +27,3 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31201544977320755213/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20040686.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Fencibles United - Auckland United (10:30 | Yeni Zelanda Kuzey Premier Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31196639414782771213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Dragons FC - Raptors FC (10:13 | Regional League. W)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20040348.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Welwitschia Mirabilis - Sporting do Imbondeiro (10:00 | Angola. Liga Bantu)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20040217.m3u8
