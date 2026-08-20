@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Olimpia Asuncion - Vasco da Gama (01:00 | Copa Sudamericana Playoffs)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31092941059486105613/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Macara - Santos (01:00 | Copa Sudamericana Playoffs)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31092941068189286413/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",LDU Quito - Mirassol (01:00 | Copa Libertadores Playoffs)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31091047459366092813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",FC Leones - Real Soacha Cundinamarca (01:00 | Kolombiya Primera B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31207243869915955213/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",San Antonio FC Cotacachi - Club 9 de Octubre (00:10 | Ekvador Serie B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -11,15 +27,3 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31188994249788211213/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31147258303128780813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Boca Juniors Reserves - Central Cordoba Reserves (23:00 | Arjantin Reserve Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31207008743105740813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Rayo Vallecano - Alaves (22:00 | [object Object])
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://bbdbe444288550204c968fe7002a97a9.biz/705/mono.m3u8?sign=a10863650c352cc0b4cb7646531f2e1a46849f28f0f3992925ae500308c1cf97&ip=2a06:98c0:3600::103&expires=1787268735
-#EXTINF:-1 group-title="Canlı Maçlar",Tacuary Asuncion - Libertad Asuncion (22:30 | Copa Paraguay)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31207332034710323213/index.css
