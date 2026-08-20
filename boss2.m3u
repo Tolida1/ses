@@ -1,12 +1,40 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",FC Bunyodkor - FK Kokand 1912 (17:00 | Özbekistan Süper Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31156355646583193613/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Dosu Joseph - Crusaders Lagos (17:30 | Nijerya. 1XBET Community Cup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20054940.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Steaua Bucuresti - Csikszereda (17:00 | Romanya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31169069444670668813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",El Mansoura - Baladiyet El Mahallah (16:30 | Mısır 2. Ligi A Grubu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31206767844513792013/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",FC Yaypan Fergana - FC Pakhtakor Tashkent II (17:00 | Özbekistan Pro Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31205731367507968013/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",CSA Steaua - Csikszereda Miercurea Ciuc (17:00 | Romanya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20054669.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",El Mansoura SC - Baladiyet El Mahallah |1 (16:30 | Mısır Şampiyonası. 2.Liga)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20054738.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",La Viena - Kahrbaa Alasmalia (16:30 | Mısır Şampiyonası. 2.Liga)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20054485.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Iberia 2010 Tbilisi - FC Tbilisi 2025 (16:00 | Gürcistan Erovnuli Liga 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31204081954943385613/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Inspire Academy - Oworo United (16:00 | Nijerya. 1XBET Community Cup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20054189.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Iberia 2010 Tbilisi - Tbilisi 2025 |1 (16:00 | Gürcistan Şampiyonası. 3.Lig)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -15,51 +43,3 @@ https://sw1.eroscloud.sbs/stream/20054165.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20054055.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Lochin - Jayxun (15:00 | Özbekistan Pro Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31214533724408627213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",FC Jurong (K) - New Taipei Hang Yuen (K) (15:30 | AFC Club Championship Women)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31202655914756915213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",FC Van Charencavan - Syunik (15:00 | Ermenistan Premier Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31208094916007936013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Olympic Mobiuz - PFK Aral (15:00 | Özbekistan Pro Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31205727122243174413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Flora Tallinn (K) - Saku Sporting (K) (15:00 | Estonya Meistriliiga Kadınlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31200246507519590413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Tabasalu Charma - Johvi FC Phoenix (15:00 | Estonya Esiliiga B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31204671740355788813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",FK Arys - FC Taraz (15:00 | Kazakistan 1. Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31170108117499494413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",FC Tallinn - Nomme Utd U21 (15:00 | Estonya Esiliiga)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31156355586604646413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Nomme Kalju FC U21 - JK Tallinna Kalev (15:00 | Estonya Esiliiga)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31156355577691750413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Tartu JK Welco - FC Levadia Tallinn U21 (15:00 | Estonya Esiliiga)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31188213879815782413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Tabasalu - Phoenix Johvi (15:00 | Estonia. Esiliiga B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20053663.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Flora Tallinn (Kadın) - Sacu Sporting (Bayanlar) |1 (15:00 | Estonya Şampiyonası. Meistrilig. Bayanlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20053714.m3u8
