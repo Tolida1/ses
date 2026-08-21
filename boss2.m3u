@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Ferrymead Bays - Nelson Suburbs (02:30 | Yeni Zelanda Southern Premier Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31224721913953894413/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Unam Pumas (K) - Queretaro (K) (02:00 | Meksika Liga MX Femenil)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -7,6 +11,10 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31165370157986201613/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31118877599324160013/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",UNAM (Bayanlar) - Queretaro (Bayanlar) (02:00 | Meksika Şampiyonası. Liga MX. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20069779.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",The Strongest - Universitario De Vinto (01:30 | Bolivya Premier Lig)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -39,15 +47,3 @@ https://sw1.eroscloud.sbs/stream/20069362.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20069381.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Sol de America - Resistencia SC (00:30 | Paraguay Division Intermedia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31195022499266150413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Rubio Nu - Sportivo Trinidense (00:30 | Paraguay 1. Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31195049180597043213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Club Sol de América - Resistencia SC |1 (00:30 | Paraguay Şampiyonası. İkinci Bölüm)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20069191.m3u8
