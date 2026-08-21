@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Los Angeles II - Swope Park Rangers (05:00 | MLS Next Pro League)
+#EXTINF:-1 group-title="Canlı Maçlar",Spartans de Barrios - Cadiz de Barrios (07:00 | Küba. Liga de Barrios)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31165370424639078413/index.css
+https://sw1.eroscloud.sbs/stream/20060394.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Olympic FC - Leader FC (06:32 | Regional League. A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20060269.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",CD Luis Angel Firpo - LD Alajuelense (06:00 | CONCACAF Central American Cup, Group A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31216998074511769613/index.css
