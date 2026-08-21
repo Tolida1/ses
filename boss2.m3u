@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Unam Pumas (K) - Queretaro (K) (02:00 | Meksika Liga MX Femenil)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31165370157986201613/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Estudiantes Rio Cuarto - San Lorenzo (02:00 | Liga Profesional - Clausura)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31118877599324160013/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",The Strongest - Universitario De Vinto (01:30 | Bolivya Premier Lig)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -43,7 +51,3 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31195049180597043213/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20069191.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",CD Jaguares de Cordoba - Boyaca Chico (00:05 | Kolombiya Primera A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31101610473622323213/index.css
