@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Brown de Adrogue - CD UAI Urquiza (01:00 | Arjantin Primera B Metropolitana)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31174432554394828813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Deportivo Laferrere - Villa Dalmine (01:00 | Arjantin Primera B Metropolitana)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31174432615841382413/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Liverpool Montevideo - Club Atletico Cerro (01:00 | Liga AUF Uruguaya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31164640099004825613/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Moca FC - Atletico Vega Real (01:00 | Primera Division)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31225088477668556813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Plaza Colonia - Colon FC (01:00 | Uruguay 2. Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31194549164929433613/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Club Plaza Colonia de Deportes - Colon Montevideo (01:00 | Uruguay Şampiyonası. 2.Bölüm)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20069362.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Moca - Atletico Vega Real (01:00 | Dominik Cumhuriyeti Şampiyonası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20069381.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Sol de America - Resistencia SC (00:30 | Paraguay Division Intermedia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -7,23 +35,11 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31195022499266150413/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31195049180597043213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Club Sol de América - Resistencia SC |1 (00:30 | Paraguay Şampiyonası. İkinci Bölüm)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20069191.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",CD Jaguares de Cordoba - Boyaca Chico (00:05 | Kolombiya Primera A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31101610473622323213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Alianza Atletico - Sporting Cristal Lima (23:00 | Peru 1. Lig-Clasura)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31101294707228262413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Consultants Desamparados - Cariari Pococi (23:00 | Kosta Rika Liga de Ascenso Apertura gr. B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31216782648766873613/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Real Betis - R. Sociedad (22:00 | [object Object])
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://bbdbe444288550204c968fe7002a97a9.biz/705/mono.m3u8?sign=7bcbdd04fd40c18f96f5af626f4ba4a02d77ee06582489d9b53e72bf16612367&ip=2a06:98c0:3600::103&expires=1787356353
-#EXTINF:-1 group-title="Canlı Maçlar",Arsenal - Coventry (22:00 | Featured Match)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://bbdbe444288550204c968fe7002a97a9.biz/703/mono.m3u8?sign=7bcbdd04fd40c18f96f5af626f4ba4a02d77ee06582489d9b53e72bf16612367&ip=2a06:98c0:3600::103&expires=1787356353
