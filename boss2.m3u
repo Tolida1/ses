@@ -1,9 +1,21 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Uniao do Nzinga - Welwitschia Mirabilis (12:00 | Angola. Liga Bantu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20062726.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Futera United - Fleet (11:00 | Kulüpler Arası Dostluk Maçları)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20062669.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Lightning FC - Spartans FC (11:00 | Regional League. W)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20062410.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",MFA Moscow (Gençler) - Arsenal Tula (Youth) (11:00 | Rusya Şampiyonası. Gençler Birinciliği. Division B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20062396.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Vikings FC - Avalanche FC (09:07 | Regional League. W)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20061769.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Desportivo Kalandula - Independente Candomble Bantu (10:00 | Angola. Liga Bantu)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20061739.m3u8
