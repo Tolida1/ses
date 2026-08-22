@@ -3,6 +3,14 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://ff.8b9035807842a4e4dbe009f3f1478127.biz/hls/701.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Forge FC - Pacific FC (02:30 | Kanada Premier Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31174434067175424013/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Cruzeiro - Flamengo (02:30 | Brezilya Serie A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31111599934527488013/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Independiente Santa Fe - America de Cali (02:10 | Kolombiya Primera A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -14,7 +22,7 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31111409649126195213/index
 #EXTINF:-1 group-title="Canlı Maçlar",Cruzeiro MG - Flamengo (02:30 | [object Object])
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://bbdbe444288550204c968fe7002a97a9.biz/707/mono.m3u8?sign=6098239e2c8a372fa3d44c202a27d6ff60735e5e8532b2a7a8afa4844a8a92c3&ip=2a06:98c0:3600::103&expires=1787448078
+https://bbdbe444288550204c968fe7002a97a9.biz/707/mono.m3u8?sign=60d56b9703f132beca8a8281d2cad5b0a871c333f5c41fc0e0a37806cc741161&ip=2a06:98c0:3600::103&expires=1787449584
 #EXTINF:-1 group-title="Canlı Maçlar",Lexington SC - Las Vegas Lights (02:00 | ABD USL Şampiyonası)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -31,6 +39,10 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31226540815616819213/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31192185804439142413/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",National Humaita (Bayanlar) - Recoleta (Bayanlar) (02:00 | Paraguay Şampiyonası. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20080315.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Argentino Quilmes - Villa San Carlos (01:00 | Arjantin Primera B Metropolitana)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -51,31 +63,7 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31233813190032998413/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20080008.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Cobreloa Calama - Union Espanola (00:30 | Şili B Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31110842190308556813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",CA Independiente Avellaneda - Independiente Rivadavia (00:30 | Liga Profesional - Clausura)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31118617519131443213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Tecnico Universitario - Guayaquil City (00:30 | Ekvador Primera A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31110842227218432013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Huachipato - Deportes Limache (00:30 | Şili Primera Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31110842215474380813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Cuiaba MT - Goias EC (00:30 | Brasileiro Serie B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31110842204044902413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",SC Internacional RS - Atletico Mineiro (00:30 | Brezilya Serie A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31110842237284761613/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Independiente - Ind. Mendoza (00:30 | [object Object])
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://bbdbe444288550204c968fe7002a97a9.biz/707/mono.m3u8?sign=6098239e2c8a372fa3d44c202a27d6ff60735e5e8532b2a7a8afa4844a8a92c3&ip=2a06:98c0:3600::103&expires=1787448078
+https://bbdbe444288550204c968fe7002a97a9.biz/707/mono.m3u8?sign=60d56b9703f132beca8a8281d2cad5b0a871c333f5c41fc0e0a37806cc741161&ip=2a06:98c0:3600::103&expires=1787449584
