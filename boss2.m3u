@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Atlanta United - Sporting Kansas City (02:00 | ABD MLS Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31157418778076364813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",New York Red Bulls Ii - Toronto Fc Ii (02:00 | MLS Next Pro League)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31183499078208307213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",St Louis City II - Houston Dynamo II (02:00 | MLS Next Pro League)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31183499127596236813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Deportes Quindio - Envigado (02:00 | Kolombiya Primera B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31183499276494028813/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Coritiba FC PR - Corinthians (01:30 | Brezilya Serie A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -39,23 +55,3 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31175655833432473613/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31126287654914867213/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Guabira Santa Cruz - Blooming (00:15 | Bolivya Premier Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31183499193341952013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Deportivo Pasto - Llaneros FC (00:05 | Kolombiya Primera A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31155275741544038413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",ART Municipal Jalapa - Matagalpa FC (00:00 | Nicaragua Birinci Lig)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31200492070597017613/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",CD Antofagasta - Deportes Temuco (00:00 | Şili B Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31183499611094630413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",ART Municipal Jalapa - Matagalpa (00:00 | Nikaragua Şampiyonası)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20089318.m3u8
