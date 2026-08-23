@@ -1,12 +1,40 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Penang FC - Brunei Dpmm FC (12:00 | Malezya Süper Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31111883376783769613/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Fenerbahçe - Konyaspor II (21:30 | Süper Lig)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://ff.8b9035807842a4e4dbe009f3f1478127.biz/hls/701.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Tokyo United - Toin University of Yokohama (11:30 | Japonya. Bölgesel Ligi)
+#EXTINF:-1 group-title="Canlı Maçlar",Atletico Suzuka - Gakunan F Mosperio (12:00 | Japonya Regional League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20083763.m3u8
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31237167832330649613/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Nihon University - Edo All United (12:00 | Japonya Regional League)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31233692057904332813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",SC Sagamihara - Zweigen Kanazawa (12:00 | Japonya J3 Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31183498796560793613/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Tokyo United FC - Toin Yokohama University (11:30 | Japonya Regional League)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31233368118279782413/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Zlin B - Fk Hodonin (11:30 | Çek Cumhuriyeti 2. Liga - MSFL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31230316653592166413/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",MSK Zilina B - OFK Malzenice (11:30 | Slovakya 2. Lig)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31183500437372518413/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",BW Linz - Voitsberg (11:30 | Avusturya 2. Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31180138507261952013/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Nankatsu - Toho Titanium (11:30 | Japonya. Bölgesel Ligi)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -143,31 +171,7 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31230486693088051213/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31236592464733388813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Marconi Stallions (W) - Blacktown Spartans FC (W) (10:00 | NSW League One Women)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31239911527693926413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Perth Redstar FC (W) - Perth SC (W) (10:00 | Avustralya Western Premier Ligi Kadınlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31195223514011648013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",UWA-Nedlands FC (W) - Subiaco AFC (W) (10:00 | Avustralya Western Premier Ligi Kadınlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31195269587811942413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Sorrento FC (W) - Balcatta (W) (10:00 | Avustralya Western Premier Ligi Kadınlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31195319589682790413/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Jecheon Citizen - Sejong SA (10:00 | Güney Kore Şampiyonası. K4 Liga)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20083070.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Apia Leichhardt Tigers (K) - Western Sydney Wanderers II (K) (09:50 | Avustralya New South Wales Kadınlar)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31217819922061312013/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Osaka City SC - Bandito Ikoma |1 (09:30 | Japonya. Bölgesel Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20082913.m3u8
