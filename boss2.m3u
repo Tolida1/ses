@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Coritiba FC PR - Corinthians (01:30 | Brezilya Serie A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31126323323276083213/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",River Plate - Velez Sarsfield (01:15 | Liga Profesional - Clausura)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -55,23 +59,3 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31183499611094630413/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20089318.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",New England Revolution - New York City (23:30 | ABD MLS Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31154993295434956813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",FBC Melgar Arequipa - Alianza Lima (23:30 | Peru 1. Lig-Clasura)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31155002333635788813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Delfin SC - Aucas (23:30 | Ekvador Primera A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31182259167706726413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Porto - Arouca (22:30 | [object Object])
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://bbdbe444288550204c968fe7002a97a9.biz/704/mono.m3u8?sign=7a4e029216e6dddbd066b370956e6f911c177c6187b8a3f8ffd2840020da1c4a&ip=2a06:98c0:3600::103&expires=1787531080
-#EXTINF:-1 group-title="Canlı Maçlar",Elche - Barcelona (22:30 | Featured Match)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://bbdbe444288550204c968fe7002a97a9.biz/705/mono.m3u8?sign=7a4e029216e6dddbd066b370956e6f911c177c6187b8a3f8ffd2840020da1c4a&ip=2a06:98c0:3600::103&expires=1787531080
