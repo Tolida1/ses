@@ -1,12 +1,28 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Atlanta United - Sporting Kansas City (02:00 | ABD MLS Ligi)
+#EXTINF:-1 group-title="Canlı Maçlar",Universitario de Deportes - Los Chankas CYC (02:30 | Peru 1. Lig-Clasura)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31157418778076364813/index.css
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31156156013965721613/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Curico Unido - Union San Felipe (02:30 | Şili B Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31183499598406860813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Real Tomayapo - Always Ready (02:30 | Bolivya Premier Lig)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31183499207183155213/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",New York Red Bulls Ii - Toronto Fc Ii (02:00 | MLS Next Pro League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31183499078208307213/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Deportivo Cali - Inter Bogota (02:10 | Kolombiya Primera A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31156022393296896013/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Atlanta United - Sporting Kansas City (02:00 | ABD MLS Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31157418778076364813/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",St Louis City II - Houston Dynamo II (02:00 | MLS Next Pro League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -39,19 +55,3 @@ https://sw1.eroscloud.sbs/stream/20089646.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20089654.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Criciuma EC - Fortaleza CE (00:30 | Brasileiro Serie B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31182675074786508813/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Santos - Mirassol (00:30 | Brezilya Serie A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31126303632277094413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Club Nacional de Montevideo - CA Progreso Montevideo (00:30 | Liga AUF Uruguaya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31175655833432473613/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Chapecoense SC - Sao Paulo (00:30 | Brezilya Serie A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31126287654914867213/index.css
