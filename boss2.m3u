@@ -3,6 +3,18 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://spring-hall-693b.arjenroben1971.workers.dev/v/31242897439184896013/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",BIIK Kazygurt (Bayanlar) - Ulytau (Bayanlar) (15:00 | Kazakistan Şampiyonası. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20095128.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Zhetysu (Bayanlar) - Kaysar (Bayanlar) (15:00 | Kazakistan Şampiyonası. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20095176.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Ryazan II - Kaluga-M (14:30 | Rusya Şampiyonası. 3.Division. Merkez)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20094954.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Kairat Almaty (Bayanlar) - Atyrau (Bayanlar) (14:00 | Kazakistan Şampiyonası. Bayanlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -11,7 +23,3 @@ https://sw1.eroscloud.sbs/stream/20094645.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20094609.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Meghalaya - Sawmer SC (13:10 | Hindistan Shillong Premier Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31245533100706611213/index.css
