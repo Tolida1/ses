@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Queensland Lions - North Sunshine Eagles (12:30 | Avustralya FFA Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31193597552115302413/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Warriors FC - Avalanche FC (12:02 | Regional League. W)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20103911.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Honga - Jamba (12:00 | Angola. Liga Bantu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -19,11 +27,15 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31253741215956582413/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20103614.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Spartans FC - Colossus FC (10:30 | Regional League. W)
+#EXTINF:-1 group-title="Canlı Maçlar",Lightning FC - Dragons FC (12:27 | Regional League. W)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20103269.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Nha La - Lucky (10:30 | Kulüpler Arası Dostluk Maçları)
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/20104262.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Okzhetpes (Bayanlar) - Jenis (Bayanlar) (13:00 | Kazakistan Şampiyonası. Bayanlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20103206.m3u8
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/20104321.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Avangard Kursk - FC Kaluga (13:00 | Rusya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/20104349.m3u8
