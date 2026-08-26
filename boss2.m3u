@@ -1,8 +1,20 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Rapid Wien - Hearts (19:45 | UEFA Avrupa Konferans Ligi Elemeleri)
+#EXTINF:-1 group-title="Canlı Maçlar",Celje - Slovan Bratislava (22:00 | UEFA Şampiyonlar Ligi Elemeleri)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312106864275517440/index.css
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312095124490973184/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",AEK Athens - Levski Sofia (22:00 | UEFA Şampiyonlar Ligi Elemeleri)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312004145431867392/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Lyon - Fenerbahçe (22:00 | UEFA Şampiyonlar Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sc.xgs6gx7s8axbnhs682908459sxbnha61838shs.biz/trt1/mono.m3u8?sign=825fc6d60ed9eecd5934c4e0510de5c8a97605387f4dc79f412f8062aca433a2&ip=2a06:98c0:3600::103&expires=1787783924
+#EXTINF:-1 group-title="Canlı Maçlar",Viking - Dinamo Zagreb (22:00 | UEFA Şampiyonlar Ligi Elemeleri)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312004920602161152/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Independiente Del Valle - Deportes Tolima (03:30 | Copa Libertadores Playoffs)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -27,87 +39,71 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31253600738125004813/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20110424.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Mosul FC - Karbala Fc (21:00 | Stars League)
+#EXTINF:-1 group-title="Canlı Maçlar",Tottenham - Charlton (21:45 | İngiltere EFL Cup)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312136330377850880/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Al Minaa - Al-Gharraf SC (21:00 | Stars League)
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/311353925099483136/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Real Madrid - Real Sociedad (22:00 | İspanya La liga)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312136330968199168/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Al-Salmiyah - Al-Nasr Kuwait (21:00 | Kuveyt Premier Ligi)
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/307644913159991296/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Atletico Grau - Sport Boys (23:00 | Copa de la Liga)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312555545644658688/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",San Lorenzo Reserves - Godoy Cruz Reserves (21:00 | Arjantin Reserve Lig)
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312595450633547776/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Crusaders Reserves - Ballymena United Reserves (22:00 | Kuzey İrlanda Premiership Development Ligi)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312611945681940480/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Estudiantes La Plata Reserves - Boca Juniors Reserves (21:00 | Arjantin Reserve Lig)
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312678574409281536/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",San Antonio Bulo Bulo - The Strongest (22:00 | Bolivya Premier Lig)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312611916793671680/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Polokwane City - Milford FC (20:30 | Güney Afrika Premier Ligi)
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312106863093772288/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Newcastle - West Bromwich (21:45 | İngiltere EFL Cup)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/311887074914103296/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Golden Arrows - Stellenbosch (20:30 | Güney Afrika Premier Ligi)
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/311407612202217472/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Bradford - Burnley (21:45 | İngiltere EFL Cup)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312106864878448640/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Richards Bay - Kaizer Chiefs (20:30 | Güney Afrika Premier Ligi)
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/311344263665971200/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Sporting Cristal Lima - Sport Huancayo (23:00 | Copa de la Liga)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/311887074818682880/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Mamelodi Sundowns - AmaZulu (20:30 | Güney Afrika Premier Ligi)
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312595584560820224/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Real Madrid - R. Sociedad (22:00 | BİRAZDAN Featured Match)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/311887074720116736/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Levadia Tallinn - Paide Linnameeskond (20:00 | Estonya Kupası)
+https://sc.xgs6gx7s8axbnhs682908459sxbnha61838shs.biz/705/mono.m3u8?sign=825fc6d60ed9eecd5934c4e0510de5c8a97605387f4dc79f412f8062aca433a2&ip=2a06:98c0:3600::103&expires=1787783924
+#EXTINF:-1 group-title="Canlı Maçlar",Real Union de Tenerife Santa Cruz - Tenerife B (22:30 | Kulüpler Hazırlık Maçları (Format Değişikliği Olabilir))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312602017353330688/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Jedinstvo Ub U19 - Mladost Lucani U19 (20:00 | Sırbistan U19 Ligi)
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312675351963267072/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Viking - D. Zagreb (22:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312601899788038144/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Torpedo Kutaisi - FC Dinamo Batumi (20:00 | Gürcistan Kupası)
+https://sc.xgs6gx7s8axbnhs682908459sxbnha61838shs.biz/tabii1/mono.m3u8?sign=825fc6d60ed9eecd5934c4e0510de5c8a97605387f4dc79f412f8062aca433a2&ip=2a06:98c0:3600::103&expires=1787783924
+#EXTINF:-1 group-title="Canlı Maçlar",AEK - Levski Sofya (22:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312602081679273984/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",FA 2000 - Lyngby (20:00 | Danimarka Kupası)
+https://sc.xgs6gx7s8axbnhs682908459sxbnha61838shs.biz/tabii/mono.m3u8?sign=825fc6d60ed9eecd5934c4e0510de5c8a97605387f4dc79f412f8062aca433a2&ip=2a06:98c0:3600::103&expires=1787783924
+#EXTINF:-1 group-title="Canlı Maçlar",NK Celje - S. Bratislava (22:00)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312405790618710016/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Moss - Sogndal (20:00 | Norveç 1. Ligi)
+https://sc.xgs6gx7s8axbnhs682908459sxbnha61838shs.biz/tabii2/mono.m3u8?sign=825fc6d60ed9eecd5934c4e0510de5c8a97605387f4dc79f412f8062aca433a2&ip=2a06:98c0:3600::103&expires=1787783924
+#EXTINF:-1 group-title="Canlı Maçlar",Atletico Grau - Sport Boys Warnes (23:00 | Peru. Copa de la Liga)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312001040836358144/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Odd - Kongsvinger (20:00 | Norveç 1. Ligi)
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/20120084.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Real Union de Tenerife - CD Tenerife II |1 (22:30 | Kulüpler Arası Dostluk Maçları)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312001112115408896/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",KuPS Akatemia II - Ylamyllyn Yllatys (19:45 | Finlandiya Kolmonen Ligi)
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/20120225.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",America de Cali (Bayanlar) - Deportivo Cali (Bayanlar) (23:30 | Kolombiya Şampiyonası. Bayanlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312597170815135744/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",KuPS Akatemia II - Yllatys (19:45 | Finlandiya Şampiyonası. Kolmonen. 3.Division)
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/20120277.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Sporting Cristal - Sport Huancayo (23:00 | Peru. Copa de la Liga)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/20118410.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Jedinstvo Ub U19 - Mladost Lucani U19 |1 (20:00 | Sırbistan Şampiyonası U19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/20118652.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Al-Salmiya SC - Al Naser Sporting Club (21:00 | Kuveyt. Premier Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/20119097.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Al Minaa Basra - Al-Gharraf (21:00 | Irak Şampiyonası. Stars Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/20119095.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Al Mosul - Karbala (21:00 | Irak Şampiyonası. Stars Ligi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/20119094.m3u8
+https://1.f7b44cfafd5c52223d5498196c8a2e7b.biz/stream/20120091.m3u8
