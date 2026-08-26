@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Independiente Del Valle - Deportes Tolima (03:30 | Copa Libertadores Playoffs)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31157774896296345613/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",CA River Plate Reserves - Union Santa Fe Reserves (03:30 | Arjantin Reserve Lig)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31252694405129420813/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Cruzeiro - Atletico Mineiro (03:00 | Brezilya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://spring-hall-693b.arjenroben1971.workers.dev/v/31134862471767244813/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Excursionistas - Argentino Merlo (02:00 | Arjantin Primera B Metropolitana)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
@@ -11,11 +23,3 @@ https://spring-hall-693b.arjenroben1971.workers.dev/v/31253600738125004813/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20110424.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",EC Juventude - CRB Clube de Regatas Brasil (01:30 | Brasileiro Serie B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31201166382874214413/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Atletico Clube Goianiense - Botafogo SP (01:30 | Brasileiro Serie B)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://spring-hall-693b.arjenroben1971.workers.dev/v/31201074577843404813/index.css
