@@ -1,9 +1,73 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canlı Maçlar",Ordabasy (K) - Kaspij Aktau (K) (14:00 | Kazakistan Süper Ligi Kadınlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/313140876176683008/index.css
 #EXTINF:-1 group-title="Canlı Maçlar",Samsunspor - Fenerbahçe II (21:30 | Süper Lig)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sc.ed469618898d75b149e5c7c4b6a1c415.biz/hls/701.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",San Jose Earthquakes II - Los Angeles II (05:30 | 2026 ABD MLS Next Pro)
+#EXTINF:-1 group-title="Canlı Maçlar",Welwitschia Mirabilis - Independente Candomble Bantu (14:00 | Angola. Liga Bantu)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20164659.m3u8
+https://sw1.eroscloud.sbs/stream/20168288.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Ordabasy (Bayanlar) - Caspiy Aktau (Bayanlar) (14:00 | Kazakistan Şampiyonası. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20168364.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Okinawa SV - FC Azul Claro Numazu |1 (12:30 | Japonya Şampiyonası. Japon Futbol Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20167608.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Ordabasy - Caspiy Aktau (13:50 | Kazakhstan Championship Women)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20168364.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Suriye U20 - Hindistan U20 (13:50 | AFC U20 Asian Cup Qualification)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20168359.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Wel - Ind (13:40 | AngolaLigaBantu)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20168288.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Eastern Region Of Ghana 19 - Ashanti 19 (13:20 | [object Object])
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20168135.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Zarya Lugansk - Kharkov (13:00 | [object Object])
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20167919.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Tata Motors - Grameen Academy (12:50 | [object Object])
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20167878.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Lubnan U20 - Korea Republic U20 (12:50 | [object Object])
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20167873.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Si Hawks - Colombo (12:50 | [object Object])
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20167861.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Kalighat Lovers - Mohammedan Calcutta Ii (12:40 | [object Object])
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20167784.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Slovenya - Cin (12:40 | [object Object])
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20167771.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Measures - Vary Ak (12:30 | [object Object])
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20167718.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Okinawa SV - Azul Claro Numazu (12:30 | 20262027 Japonya Futbol Ligi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20167608.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Myanmar - Sri Lanka (12:10 | [object Object])
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20167549.m3u8
