@@ -1,57 +1,89 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Comunicaciones de Bueno Aires - Deportivo Merlo (01:00 | Arjantin Primera B Metropolitana)
+#EXTINF:-1 group-title="Canlı Maçlar",Santos Laguna (K) - Atlante (K) (04:06 | Meksika Liga MX Femenil)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312378444054425600/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Estudiantes de la Plata - Newell's Old Boys (01:00 | Liga Profesional - Clausura)
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312650249389371392/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Deportes Tolima - Cucuta Deportivo (04:05 | Kolombiya Primera A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/311820704947007488/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Deportivo Pasto - Deportivo Pereira (02:00 | 2026 Kolombiya Primera A Clausura)
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312203242963103744/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Pitbulls Santa Barbara - Municipal Santa Ana (04:00 | Kosta Rika Liga de Ascenso Apertura gr. B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20173771.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Gremio Prudente - Paulista (01:20 | [object Object])
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312744669183897600/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",UMECIT - Veraguas FC (04:00 | LPF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20173653.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",UCV - Rayo Zuliano (01:30 | 2026 Venezuela Premier Lig Clausura)
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312679961616609280/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Bahia (K) - Palmeiras (Kadınlar) (03:30 | Brezilya Campeonato A1 Kadınlar)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20173628.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Fortaleza - Operario PR (01:30 | 2026 Brezilya Serie B)
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312638473493966848/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Tigre - Barracas Central (03:15 | Liga Profesional - Clausura)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20173603.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Cruzeiro - Corinthians Paulista (01:10 | [object Object])
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/311820781453209600/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Instituto de Cordoba - San Lorenzo (03:15 | Liga Profesional - Clausura)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20173571.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Union La Calera - La Serena (01:15 | 2026 Şili Premier Lig)
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/311820704733097984/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Real Tomayapo - Independiente Petrolero (03:00 | Copa de la Liga)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20173515.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Comunicaciones - Deportivo Merlo (01:00 | 2026 Arjantin Prim B Metro)
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/313079211046367232/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Boston Legacy (K) - Angel City (K) (03:00 | NWSL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20173491.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Los Andes - Acassuso (01:00 | 2026 Arjantin Ulusal Primera Lig)
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312650245512785920/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Cobreloa Calama - San Marcos de Arica (03:00 | Şili B Ligi)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20173481.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Solomon Islands 19 - Papua Yeni Gine 19 (00:50 | [object Object])
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312650253095038976/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Pitbulls Santa Bárbara - Santa Ana (04:00 | 20262027 Kosta Rika Liga De Ascenso Apertura Grup B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20173478.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Estudiantes - Newells Old Boys (01:00 | 2026 Arjantin Premier Lig 2. Aşama)
+https://sw1.eroscloud.sbs/stream/20174474.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Umesit - Veraguas (03:50 | PanamaLPF)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20173434.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Defensa y Justicia - Platense (01:00 | 2026 Arjantin Premier Lig 2. Aşama)
+https://sw1.eroscloud.sbs/stream/20174473.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Deportes Tolima - Ucuta Deportivo (03:40 | Primera A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20173429.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Encarnacion - Benjamin Aceval (00:30 | 2026 Paraguay Intermedia Lig)
+https://sw1.eroscloud.sbs/stream/20174425.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Universidad Catolica - O Higgins (03:45 | 2026 Şili Premier Lig)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20173370.m3u8
+https://sw1.eroscloud.sbs/stream/20174355.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Baya - Palmeiras (03:20 | Brazil Women's A1 Championship)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20174320.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Instituto Cordoba - San Lorenzo (03:15 | 2026 Arjantin Premier Lig 2. Aşama)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20174195.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Atletico Tigre - Barracas Central (03:15 | 2026 Arjantin Premier Lig 2. Aşama)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20174194.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Gimnasia Jujuy - Agropecuario Argentino (03:00 | 2026 Arjantin Ulusal Primera Lig)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20174192.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Real Tomayapo - Independiente (03:00 | Copa Bolivia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20174191.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Cobreloa - San Marcos (03:00 | 2026 Şili Primera B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20174165.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Boston Legacy (Bayanlar) - Angel City (Bayanlar) |1 (03:00 | 2026 ABD NWSL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20174161.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Academia Puerto Cabello - Academia Anzoategui (02:30 | 2026 Venezuela Premier Lig Clausura)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20173994.m3u8
