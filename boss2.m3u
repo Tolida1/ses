@@ -1,77 +1,137 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Sol de America - General Caballero JLM (01:00 | Paraguay Division Intermedia)
+#EXTINF:-1 group-title="Canlı Maçlar",Colorado Buffaloes - Georgia Tech Yellow Jackets (03:00 | NCAA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/313160532866265088/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Boca Juniors Reserves - Quilmes Reserves (01:00 | Arjantin Reserve Lig)
+https://sw1.eroscloud.sbs/stream/20206451.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Arkansas Pine Bluff - Missouri Tigers (03:00 | NCAA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/313341690500509696/index.css
+https://sw1.eroscloud.sbs/stream/20206441.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Cavaliers FC - Portmore United (03:00 | CONCACAF Caribbean Cup Group B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/313280585368498176/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Metropolitanos FC - Trujillanos FC (02:00 | Liga FUTVE - Clausura)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/313229398229282816/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Managua FC - Diriangen FC (02:00 | Nicaragua Birinci Lig)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/313009640628187136/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Nautico Capibaribe - Botafogo SP (02:00 | Brasileiro Serie B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312827697082036224/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Gremio - SC Internacional RS (02:00 | Brezilya Kupası)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/311358474700877824/index.css
+#EXTINF:-1 group-title="Canlı Maçlar",Eastern Illinois - Minnesota Golden Gophers (02:45 | NCAA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20206388.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",West Georgia Wolves - Kennesaw State (01:45 | NCAA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20206429.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Merrimack - Delaware Blue Hens (01:45 | NCAA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20206145.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Lindenwood Lions - Stony Brook (01:45 | NCAA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20206022.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Southern Illinois Salukis - Samford Bulldogs (01:45 | NCAA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20206166.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Bethune-Cookman Wildcats - UCF Knights (01:45 | NCAA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20206083.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Akron Zips - Wake Forest Demon Deacons (01:45 | NCAA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20206039.m3u8
 #EXTINF:-1 group-title="Canlı Maçlar",Massachusetts Minutemen - Rutgers Scarlet Knights (01:00 | NCAA)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
 https://sw1.eroscloud.sbs/stream/20205697.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Club Sol de América - General Caballero JLM (01:00 | Paraguay Şampiyonası. İkinci Bölüm)
+#EXTINF:-1 group-title="Canlı Maçlar",North Central Cardinals - Benedictine Eagles (03:10 | Unknown League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20205675.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Leones Del Norte - Orense SC (00:30 | Ekvador Primera A)
+https://sw1.eroscloud.sbs/stream/20206505.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Westminster Blue Jays - Illinois College Blueboys (03:00 | Unknown League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312822782837288960/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Deportivo Chiriqui (W) - Santa Fe FC (W) (00:00 | Panama 1. Ligi Kadınlar)
+https://sw1.eroscloud.sbs/stream/20206459.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",College Carthage - Illinois Scarlet Hawks (03:00 | Unknown League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/313455221307764736/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",America de Cali - Alianza Valledupar (00:00 | Kolombiya Primera A)
+https://sw1.eroscloud.sbs/stream/20206417.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Cavalier - Portmore United (03:00 | Concacaf Caribbean Cup)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://m1.d5aa1729c8c253e5d917a5264855eab8.biz/v/312607966095896576/index.css
-#EXTINF:-1 group-title="Canlı Maçlar",Holy Cross College Female - Central Connecticut Blue Devils (01:10 | Unknown League)
+https://sw1.eroscloud.sbs/stream/20206406.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Libertad - Emelec (03:00 | 2026 Ekvador Pro Lig)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20205763.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Siena College Saints - Harley Dickinson Nats (01:00 | Unknown League)
+https://sw1.eroscloud.sbs/stream/20206405.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Don Orione - Deportivo Guiraldes (02:50 | Unknown League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20205742.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",New Caledonia 19 - Solomon Islands 19 (01:00 | Unknown League)
+https://sw1.eroscloud.sbs/stream/20206392.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Nvsl Lumark - Ticks (02:30 | Unknown League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20205711.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Alabama Huntsville Chargers - Gurcistan South Harricks (00:50 | Unknown League)
+https://sw1.eroscloud.sbs/stream/20206267.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",International Palmira - Real Cundinamarca (02:20 | ColumbiaExample B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20205694.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Sol De America - General Caballero JLM |1 (01:00 | 2026 Paraguay Intermedia Lig)
+https://sw1.eroscloud.sbs/stream/20206234.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Pantanal 20 - Ec Campo Grande 20 (02:00 | Unknown League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20205675.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Estudiantes De Merida - UCV (01:00 | 2026 Venezuela Premier Lig Clausura)
+https://sw1.eroscloud.sbs/stream/20206097.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Ksa - National Am (01:50 | Unknown League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20205606.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Leones del Norte - Orense (00:30 | 2026 Ekvador Pro Lig)
+https://sw1.eroscloud.sbs/stream/20206042.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Managua - Diriangen (02:00 | 20262027 Nikaragua Premier Lig Apertura)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20205474.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Deportivo Recoleta - Cerro Porteno (00:30 | 2026 Paraguay Profesyonel Lig Clausura)
+https://sw1.eroscloud.sbs/stream/20206030.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Oriental - Racing Club Montevideo (02:00 | 2026 Uruguay Kupa Ön Eleme Turu Grup 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20205473.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Nord Central Rams - Bethel Royals (00:00 | Unknown League)
+https://sw1.eroscloud.sbs/stream/20206024.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Academia Puerto Cabello - Deportivo La Guaira (02:00 | 2026 Venezuela Premier Lig Clausura)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20205370.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",America de Cali - Alianza Petrolera (00:00 | 2026 Kolombiya Primera A Clausura)
+https://sw1.eroscloud.sbs/stream/20205970.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Nautico - Botafogo SP (02:00 | 2026 Brezilya Serie B)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20205264.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",City College Of New York Beavers - Centenary University (23:30 | Unknown League)
+https://sw1.eroscloud.sbs/stream/20205967.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Gremio - Internacional (02:00 | 2026 Brezilya Kupa Çeyrek Final)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20205171.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Cuniburo FC - San Antonio (23:30 | 2026 Ekvador Pro Lig Serie B Şampiyonluk Grubu)
+https://sw1.eroscloud.sbs/stream/20205965.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Metropolitanos - Trujillanos (02:00 | 2026 Venezuela Premier Lig Clausura)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1027.com/
-https://sw1.eroscloud.sbs/stream/20205110.m3u8
+https://sw1.eroscloud.sbs/stream/20205963.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Academy Of Puerto Cabello - Deportivo Guayra (01:40 | Venezuela Primera Division)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20205954.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Nacional Potosi - Real Tomayapo (01:40 | Copa Bolivia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20205924.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Internacional Palmira - Real Cundinamarca (02:00 | 2026 Kolombiya Primera B Clausura)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1027.com/
+https://sw1.eroscloud.sbs/stream/20205923.m3u8
