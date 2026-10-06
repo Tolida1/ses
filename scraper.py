@@ -7,7 +7,7 @@ MATCHES_API = "https://bosssports1060.com/api/matches"
 BASE_SITE = "https://bosssports1060.com/"
 USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
-REFERER = "https://bosssports1027.com/"
+REFERER = "https://bosssports1060.com/"
 
 CHANNELS_FILE = "boss.m3u"
 MATCHES_FILE = "boss2.m3u"
