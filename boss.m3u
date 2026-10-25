@@ -1,140 +1,32 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live TV",beIN Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/zirve/mono.m3u8
-#EXTINF:-1 group-title="Live TV",beIN Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/b2/mono.m3u8
-#EXTINF:-1 group-title="Live TV",beIN Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/b3/mono.m3u8
-#EXTINF:-1 group-title="Live TV",beIN Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/b4/mono.m3u8
-#EXTINF:-1 group-title="Live TV",beIN Sports 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/b5/mono.m3u8
-#EXTINF:-1 group-title="Live TV",beIN Sports Max 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/bm1/mono.m3u8
-#EXTINF:-1 group-title="Live TV",beIN Sports Max 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/bm2/mono.m3u8
 #EXTINF:-1 group-title="Live TV",S Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/ss/mono.m3u8
-#EXTINF:-1 group-title="Live TV",S Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/ss2/mono.m3u8
-#EXTINF:-1 group-title="Live TV",Smartspor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/smarts/mono.m3u8
-#EXTINF:-1 group-title="Live TV",Smartspor 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/sms2/mono.m3u8
+https://sc.x6s7x9c7a02n38889sn23900s72n36s8.biz/705/mono.m3u8?sign=ec2b822785387ad1e0361ba3b2735a9f22e4b4877909f75b39f418838733e38e&ip=2a06:98c0:3600::103&expires=1792959414
 #EXTINF:-1 group-title="Live TV",Tivibu Spor 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/t1/mono.m3u8
-#EXTINF:-1 group-title="Live TV",Tivibu Spor 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/t2/mono.m3u8
-#EXTINF:-1 group-title="Live TV",Tivibu Spor 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/t3/mono.m3u8
-#EXTINF:-1 group-title="Live TV",Tivibu Spor 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/t4/mono.m3u8
-#EXTINF:-1 group-title="Live TV",TRT Spor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/trtspor/mono.m3u8
-#EXTINF:-1 group-title="Live TV",TRT Spor Yıldız
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/trtspor2/mono.m3u8
-#EXTINF:-1 group-title="Live TV",TRT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/trt1/mono.m3u8
-#EXTINF:-1 group-title="Live TV",A Spor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/as/mono.m3u8
-#EXTINF:-1 group-title="Live TV",ATV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/atv/mono.m3u8
-#EXTINF:-1 group-title="Live TV",TV8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/tv8/mono.m3u8
-#EXTINF:-1 group-title="Live TV",TV8,5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/tv85/mono.m3u8
-#EXTINF:-1 group-title="Live TV",Eurosport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/eu1/mono.m3u8
-#EXTINF:-1 group-title="Live TV",Eurosport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/eu2/mono.m3u8
-#EXTINF:-1 group-title="Live TV",Tabii Spor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/ex7/mono.m3u8
-#EXTINF:-1 group-title="Live TV",Tabii Spor 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/ex1/mono.m3u8
-#EXTINF:-1 group-title="Live TV",Tabii Spor 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/ex2/mono.m3u8
-#EXTINF:-1 group-title="Live TV",Tabii Spor 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/ex3/mono.m3u8
-#EXTINF:-1 group-title="Live TV",Tabii Spor 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/ex4/mono.m3u8
-#EXTINF:-1 group-title="Live TV",Tabii Spor 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/ex5/mono.m3u8
-#EXTINF:-1 group-title="Live TV",Tabii Spor 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://tzy.zirvedesin236.cfd/ex6/mono.m3u8
+https://sc.x6s7x9c7a02n38889sn23900s72n36s8.biz/708/mono.m3u8?sign=ec2b822785387ad1e0361ba3b2735a9f22e4b4877909f75b39f418838733e38e&ip=2a06:98c0:3600::103&expires=1792959414
 #EXTINF:-1 group-title="Live TV",Spor Smart
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://sc.x6s7x9c7a02n38889sn23900s72n36s8.biz/707/mono.m3u8?sign=39b2a99e556e1fb42fd1ac8d2039eeca25d4e1a897a190d66f1a10da7129d9a1&ip=2a06:98c0:3600::103&expires=1792945744
+https://sc.x6s7x9c7a02n38889sn23900s72n36s8.biz/707/mono.m3u8?sign=ec2b822785387ad1e0361ba3b2735a9f22e4b4877909f75b39f418838733e38e&ip=2a06:98c0:3600::103&expires=1792959414
+#EXTINF:-1 group-title="Live TV",AA Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1060.com/
+https://sc.x6s7x9c7a02n38889sn23900s72n36s8.biz/709/mono.m3u8?sign=ec2b822785387ad1e0361ba3b2735a9f22e4b4877909f75b39f418838733e38e&ip=2a06:98c0:3600::103&expires=1792959414
+#EXTINF:-1 group-title="Live TV",TRT Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1060.com/
+https://sc.x6s7x9c7a02n38889sn23900s72n36s8.biz/trtspor/mono.m3u8?sign=ec2b822785387ad1e0361ba3b2735a9f22e4b4877909f75b39f418838733e38e&ip=2a06:98c0:3600::103&expires=1792959414
 #EXTINF:-1 group-title="Live TV",Euro Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://sc.x6s7x9c7a02n38889sn23900s72n36s8.biz/euro1/mono.m3u8?sign=39b2a99e556e1fb42fd1ac8d2039eeca25d4e1a897a190d66f1a10da7129d9a1&ip=2a06:98c0:3600::103&expires=1792945744
+https://sc.x6s7x9c7a02n38889sn23900s72n36s8.biz/euro1/mono.m3u8?sign=ec2b822785387ad1e0361ba3b2735a9f22e4b4877909f75b39f418838733e38e&ip=2a06:98c0:3600::103&expires=1792959414
 #EXTINF:-1 group-title="Live TV",Euro Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://sc.x6s7x9c7a02n38889sn23900s72n36s8.biz/euro2/mono.m3u8?sign=39b2a99e556e1fb42fd1ac8d2039eeca25d4e1a897a190d66f1a10da7129d9a1&ip=2a06:98c0:3600::103&expires=1792945744
+https://sc.x6s7x9c7a02n38889sn23900s72n36s8.biz/euro2/mono.m3u8?sign=ec2b822785387ad1e0361ba3b2735a9f22e4b4877909f75b39f418838733e38e&ip=2a06:98c0:3600::103&expires=1792959414
 #EXTINF:-1 group-title="🇬🇧 İngiltere",SKY Sports News HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1060.com/
