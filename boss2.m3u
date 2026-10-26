@@ -1,21 +1,49 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canlı Maçlar",Tsu Tambov - Spbpu (09:50 | Unknown League)
+#EXTINF:-1 group-title="Canlı Maçlar",Red Star - Vojvodina (17:00 | Unknown League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://sw1.eroscloud.sbs/stream/20772164.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Des - Ind (10:00 | AngolaLigaBantu)
+https://sw1.eroscloud.sbs/stream/20775671.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Neftchi Fargona - Al Ittihad (16:45 | AFC Şampiyonlar Ligi)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://sw1.eroscloud.sbs/stream/20772187.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Desportivo Kalandula - Independente Candomble Bantu (10:00 | Angola. Liga Bantu)
+https://ramadatv2.com/707/mono.m3u8?sign=617b4c9a67378e98ec34a7b2b193d85404b520882add53bc783c9e1fecb91581&ip=2a06:98c0:3600::103&expires=1793034034
+#EXTINF:-1 group-title="Canlı Maçlar",Khorezm - News (16:20 | Unknown League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://sw1.eroscloud.sbs/stream/20772187.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Rebels FC - Legion FC (09:00 | Regional League. W)
+https://sw1.eroscloud.sbs/stream/20775388.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Jebla - Abu Hardub (16:20 | Unknown League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://sw1.eroscloud.sbs/stream/20771694.m3u8
-#EXTINF:-1 group-title="Canlı Maçlar",Sk Bengaluru - Rebels Bangalore (08:20 | Unknown League)
+https://sw1.eroscloud.sbs/stream/20775355.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Ariana Host - Abu Muslim Farah (16:20 | Unknown League)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bosssports1060.com/
-https://sw1.eroscloud.sbs/stream/20771462.m3u8
+https://sw1.eroscloud.sbs/stream/20775369.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Leones Habana - Dragones Del Cerro (16:00 | Futbol de Barrios)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1060.com/
+https://sw1.eroscloud.sbs/stream/20775308.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Mladost Zdralovi - Nuclear Lp (16:10 | Unknown League)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1060.com/
+https://sw1.eroscloud.sbs/stream/20775259.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",BSC - Alanya Belediye (15:30 | Plaj Futbolu Dünya Kulüpler Şampiyonasi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1060.com/
+https://ramadatv2.com/trtspor/mono.m3u8?sign=617b4c9a67378e98ec34a7b2b193d85404b520882add53bc783c9e1fecb91581&ip=2a06:98c0:3600::103&expires=1793034034
+#EXTINF:-1 group-title="Canlı Maçlar",Alga Bishkek - Ozgon (15:50 | Kyrgyzstan Championship Higher League)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1060.com/
+https://sw1.eroscloud.sbs/stream/20775162.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Gamo Chencha - Etiyopya Nigd Bank (16:00 | Unknown League)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1060.com/
+https://sw1.eroscloud.sbs/stream/20775177.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Lokomotiv Plovdiv - Slavia Sofia (18:00 | Bulgaristan 1.Lig)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1060.com/
+https://sw1.eroscloud.sbs/stream/20776137.m3u8
+#EXTINF:-1 group-title="Canlı Maçlar",Crvena Zvezda (Bayanlar) - FK Vojvodina (Bayanlar) (17:00 | Sırbistan Şampiyonası. Bayanlar)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bosssports1060.com/
+https://sw1.eroscloud.sbs/stream/20775671.m3u8
